@@ -1,0 +1,117 @@
+
+Scraping tab: w2/view
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w2/10656: input must be a scalar
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w2/9033: input must be a scalar
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w2/8239: input must be a scalar
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w2/5662: input must be a scalar
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w2/2618: input must be a scalar
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w2/2309: input must be a scalar
+Dictionary written to Scraped/w2_view.json
+
+
+
+
+Scraping tab: w3/view
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w3/3100: input must be a scalar
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w3/1646: input must be a scalar
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w3/540: input must be a scalar
+Dictionary written to Scraped/w3_view.json
+
+
+
+
+Scraping tab: w4/view
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w4/168: input must be a scalar
+Dictionary written to Scraped/w4_view.json
+
+
+
+
+Scraping tab: w12/view
+❌ Missmatch in length of total 418 vs scraped 10 in this tab: w12/view , Τροποποίηση - Ανανέωση ΑΕΠΟ για Έργα/Δραστηριότητες Α1/Α2
+Dictionary written to Scraped/w12_view.json
+
+
+
+
+Scraping tab: w5/view
+Dictionary written to Scraped/w5_view.json
+
+
+
+
+Scraping tab: w6/view
+Dictionary written to Scraped/w6_view.json
+
+
+
+
+Scraping tab: w7/view
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w7/60: input must be a scalar
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w7/40: input must be a scalar
+Dictionary written to Scraped/w7_view.json
+
+
+
+
+Scraping tab: w8/view
+Dictionary written to Scraped/w8_view.json
+
+
+
+
+Scraping tab: w1/view_public
+Dictionary written to Scraped/w1_view_public.json
+
+
+
+
+Scraping tab: w2/view_public
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w2/11013: input must be a scalar
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w2/10639: input must be a scalar
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w2/8338: cannot convert float infinity to integer
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w2/7657: cannot convert float infinity to integer
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w2/5530: input must be a scalar
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w2/2599: input must be a scalar
+Dictionary written to Scraped/w2_view_public.json
+
+
+
+
+Scraping tab: w3/view_public
+❌ Error in extract panel location for https://eprm.ypen.gr/src/App/w3/4370: cannot convert float infinity to integer
+Dictionary written to Scraped/w3_view_public.json
+
+
+
+
+Scraping tab: w4/view_public
+Dictionary written to Scraped/w4_view_public.json
+
+
+
+
+Scraping tab: w12/view_public
+Dictionary written to Scraped/w12_view_public.json
+
+
+
+
+Scraping tab: w5/view_public
+
+
+
+
+Scraping tab: w6/view_public
+
+
+
+
+Scraping tab: w7/view_public
+
+
+
+
+Scraping tab: w8/view_public
+
+

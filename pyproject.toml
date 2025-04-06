@@ -1,0 +1,33 @@
+[project]
+name = "upen"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Contrarium3",email = "contrarium3@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "selenium (>=4.30.0,<5.0.0)",
+    "requests (>=2.32.3,<3.0.0)",
+    "pyautogui (>=0.9.54,<0.10.0)",
+    "pillow (>=11.1.0,<12.0.0)",
+    "webdriver-manager (>=4.0.2,<5.0.0)",
+    "beautifulsoup4 (>=4.13.3,<5.0.0)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "pyproj (>=3.7.1,<4.0.0)",
+    "aiohttp (>=3.11.16,<4.0.0)",
+    "aiofiles (>=24.1.0,<25.0.0)",
+    "tqdm (>=4.67.1,<5.0.0)",
+]
+
+[tool.poetry]
+packages = [{include = "upen", from = "src"}]
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

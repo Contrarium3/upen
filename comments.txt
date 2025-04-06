@@ -1,0 +1,8 @@
+pets are not unique, example : 2112692625 in w2
+
+
+1) LOGGED AS ERROR: Few projects dont have coordinates in panel location or have wrong coordinates -> SKIP panel location as {}
+
+2) Modify the code to make it scrape new unseen projects ( just add an if pet_url not in json until i find an existing project because they are ordered in date ?!?!! )
+
+
