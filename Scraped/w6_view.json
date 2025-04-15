@@ -1,0 +1,2356 @@
+{
+    "2310005125_w6_23": {
+        "panel-application_info": {
+            "Τίτλος Έργου ή Δραστηριότητας": "ΜΕΛΕΤΗ ΠΡΟΚΑΤΑΡΚΤΙΚΟΥ ΠΡΟΣΔΙΟΡΙΣΜΟΥ ΠΕΡΙΒΑΛΛΟΝΤΙΚΩΝ ΑΠΑΙΤΗΣΕΩΝ ΓΙΑ ΤΟ ΕΡΓΟ \"ΠΑΡΑΚΑΜΨΗΣ ΤΕΓΕΑΣ\" ΣΤΟ ΔΗΜΟ ΤΡΙΠΟΛΗΣ",
+            "Σύντομος Τίτλος Έργου ή Δραστηριότητας": "ΜΕΛΕΤΗ ΠΡΟΚΑΤΑΡΚΤΙΚΟΥ ΠΡΟΣΔΙΟΡΙΣΜΟΥ ΠΕΡΙΒΑΛΛΟΝΤΙΚΩΝ ΑΠΑΙΤΗΣΕΩΝ ΓΙΑ ΤΟ ΕΡΓΟ \"ΠΑΡΑΚΑΜΨΗΣ ΤΕΓΕΑΣ\" ΣΤΟ ΔΗΜΟ ΤΡΙΠΟΛΗΣ",
+            "Αριθμός πρωτοκόλλου υποβολής": "91708/18-10-2023",
+            "Κατάσταση αίτησης": [
+                "Υποβολή",
+                "Έλεγχος πληρότητας",
+                "Γνωμοδοτήσεις",
+                "Τελική αξιολόγηση",
+                "Ολοκλήρωση"
+            ],
+            "Ημερομηνία υποβολής": "2023-10-12 14:46:19",
+            "ΠΕΤ": "2310005125",
+            "Φορέας Έργου ή Δραστηριότητας": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ(ΕΔΡΑΣ) - ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+            "Ανάθεση σε": "ΣΤΥΛΙΑΝΟΣ ΣΠΑΝΟΣ"
+        },
+        "panel-application_authority": {
+            "Διεύθυνση": "Δ/νση Περιβάλλοντος & Χωρικού Σχεδιασμού Πελοποννήσου",
+            "Τμήμα": "Τμήμα Περιβαλλοντικού & Χωρικού Σχεδιασμού Πελοποννήσου"
+        },
+        "panel-company_info": {
+            "Επωνυμία": "Περιφέρεια Πελοποννήσου Γενική Διεύθυνση Αναπτυξιακού Προγραμματισμού Περιβάλλοντος και Υποδομών Διεύθυνση Τεχνικών Έργων",
+            "ΑΦΜ": "998037420",
+            "ΔΟΥ": "ΤΡΙΠΟΛΗΣ",
+            "Διεύθυνση": "ΝΑΥΠΛΙΟΥ 57",
+            "Περιοχή": "ΤΡΙΠΟΛΗ",
+            "Fax": "",
+            "Email": "dteperpel@gmail.com",
+            "Υπεύθυνος επικοινωνίας": "ΕΥΑΝΘΙΑ ΣΙΔΕΡΗ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2713610262",
+            "Email υπεύθυνου επικοινωνίας": "siderivana@gmail.com",
+            "Θέση υπεύθυνου επικοινωνίας": "ΑΝΑΠΛΗΡΩΤΡΙΑ ΠΡΟΪΣΤΑΜΕΝΗ ΤΜΗΜΑΤΟΣ ΔΟΜΩΝ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"
+        },
+        "panel-studier_info": {
+            "Επωνυμία": "Θεόδωρος Μαυρογεώργης",
+            "Διεύθυνση": "Ασκληπιού 26-28, Αθήνα, 10680",
+            "Περιοχή": "ΑΘΗΝΑ",
+            "Fax": "",
+            "Email": "mmat@otenet.gr",
+            "Υπεύθυνος επικοινωνίας": "Θεόδωρος Μαυρογεώργης",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2103306742",
+            "Email υπεύθυνου επικοινωνίας": "mmat@otenet.gr",
+            "Θέση υπεύθυνου επικοινωνίας": ""
+        },
+        "panel-project_info": {
+            "Κατάταξη Έργου / Δραστηριότητας - Κύρια": "Ομάδα 1η: Έργα χερσαίων και εναέριων μεταφορών / A III Οδός μεταξύ επαρχιών/οικισμών",
+            "text_0": "Ομάδα 2η: Υδραυλικά έργα / Αγωγοί µεταφοράς νερού κάθε είδους και χρήσης, όπως: κλειστοί αγωγοί µεταφοράς νερού (συµπεριλµβανοµένου και του θερµού) ή αποχέτευσης ακαθάρτων ή οµβρίων, διώρυγες, τάφροι, σήραγγες µεταφοράς υδάτων κ.λπ.",
+            "Κατάταξη Έργου / Δραστηριότητας - Δευτερεύουσα": "Ομάδα 2η: Υδραυλικά έργα / Αγωγοί µεταφοράς νερού κάθε είδους και χρήσης, όπως: κλειστοί αγωγοί µεταφοράς νερού (συµπεριλµβανοµένου και του θερµού) ή αποχέτευσης ακαθάρτων ή οµβρίων, διώρυγες, τάφροι, σήραγγες µεταφοράς υδάτων κ.λπ.",
+            "Κατηγορία / Υποκατηγορία Έργου ή Δραστηριότητας": "A2",
+            "Α/Α (1-226)": ""
+        },
+        "panel-location": {
+            "coordinates": {
+                "type": "linear",
+                "points": [
+                    {
+                        "type": "Αρχή",
+                        "EGSA87": {
+                            "x": "359225.11",
+                            "y": "4148168.17"
+                        },
+                        "WGS84": {
+                            "φ": "37.4723063",
+                            "λ": "22.4096851"
+                        }
+                    },
+                    {
+                        "type": "Μέση",
+                        "EGSA87": {
+                            "x": "362104.59",
+                            "y": "4145712.85"
+                        },
+                        "WGS84": {
+                            "φ": "37.4506168",
+                            "λ": "22.4426966"
+                        }
+                    },
+                    {
+                        "type": "Τέλος",
+                        "EGSA87": {
+                            "x": "365221.02",
+                            "y": "4144099.33"
+                        },
+                        "WGS84": {
+                            "φ": "37.436537",
+                            "λ": "22.4782129"
+                        }
+                    }
+                ],
+                "raw": "37.4723063,22.4096851-37.4506168,22.4426966-37.436537,22.4782129"
+            },
+            "location_name": "",
+            "administrative_hierarchies": [
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΤΡΙΠΟΛΗΣ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΤΕΓΕΑΣ"
+                ]
+            ]
+        },
+        "panel-files": {
+            "Έντυπο Υ": {
+                "text": "Y_ENTYPO_YPOVOLHS_STOIXEIWN.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakhHYitvZUdZZE54YnFGcytWWmtNMW5rNU5BUGxPaVdsWUhXOHV0TDBQU21SNzc4cDFsbEowbHl1UjAxaTVYMzBvNmo0L0o1WlB0Um4xQVRCTlZDQ2o,"
+                ]
+            },
+            "Φάκελος ΠΠΠΑ": {
+                "items": [
+                    "Τ1-ΠΠΠΑ_check_Signed.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakhHYitvZUdZZE54YnFGcytWWmtNMW5rNU5BUGxPaVdsWUhXOHV0TDBQU2t4c0JmbGJVdzBzaWZuSUFJeDBzUDdDWmsyc3lGZ0hVTCt5c3pRL1ZnYko,"
+                ]
+            },
+            "Σχέδια": {
+                "items": [
+                    "ΠΠΠΑ-6 Μηκοτομή άξονα επιλεχθείσας λύσης_check_Signed.pdf",
+                    "ΠΠΠΑ-7 Τυπικές Διατομές_check_Signed.pdf",
+                    "ΠΠΠΑ-5 Οριζοντιογραφία_check_Signed.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakhHYitvZUdZZE54YnFGcytWWmtNMW5rNU5BUGxPaVdsWUhXOHV0TDBQU3FmWXpVYWtodmo1MmhHTndKNHBFTFhXNGpPWStFQVNvK3RkNUhCMVQ3cUU,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakhHYitvZUdZZE54YnFGcytWWmtNMW5rNU5BUGxPaVdsWUhXOHV0TDBQU3JwdEFEWE5YeWdQcHRPZ2tLNVpPTVdKMTJZTEUrd0lOVEJCelZrQjFmbS8,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakhHYitvZUdZZE54YnFGcytWWmtNMW5rNU5BUGxPaVdsWUhXOHV0TDBQU2wrbm1QcXpQSjlVaWE3VUVQMUJuY3diVldKVnFkQ1cwc3phT1BrOG5zNmg,"
+                ]
+            },
+            "Φωτογραφίες": [],
+            "Έγγραφα, Εγκρίσεις, Άδειες κλπ": [],
+            "Χάρτες – Χωροθέτηση": {
+                "items": [
+                    "ΠΠΠΑ-1 Χάρτης Προσανατολισμού_check_Signed.pdf",
+                    "ΠΠΠΑ-2α Χάρτης Περιοχής Μελέτης_check_Signed.pdf",
+                    "ΠΠΠΑ-4 Χάρτης Εναλλακτικών Λύσεων_check_Signed.pdf",
+                    "ΠΠΠΑ-2β Περιοχή Μελέτης επί Δασικού Χάρτη_check_SIgned.pdf",
+                    "ΠΠΠΑ-3 Χάρτης Χρήσεων και Κάλυψης Γης_check_Signed.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakhHYitvZUdZZE54YnFGcytWWmtNMW5rNU5BUGxPaVdsWUhXOHV0TDBQU2hqNEFLSEZzUDFxTWZMd3BlNklRTUdXbmd3b2VwTGhNeWhqV2x4K3pmMjU,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakhHYitvZUdZZE54YnFGcytWWmtNMW5rNU5BUGxPaVdsWUhXOHV0TDBQU2lMbzVRYVRxcysxTU11T2VFbTNzY0poSXBhdmFKVnRSaXhVZHh3SWJGRXk,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakhHYitvZUdZZE54YnFGcytWWmtNMW5rNU5BUGxPaVdsWUhXOHV0TDBQU21zL3lPTm1vUXREWEdhUktoaDhnVjdPSEFjZTY5Y25RbXBvN055KzIyay8,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakhHYitvZUdZZE54YnFGcytWWmtNMW5rNU5BUGxPaVdsWUhXOHV0TDBQU21yZGQrU2lLTWpZUG1BTS9nd1NCNmxjMEp5b1FQVVE5aG5PVGxwY1kySFg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakhHYitvZUdZZE54YnFGcytWWmtNMW5rNU5BUGxPaVdsWUhXOHV0TDBQU3UyMWU2TjNtZENycUppZTJWRzU4a2dlZ1c1c0NxNXYybXZ2Si92SFpvTDg,"
+                ]
+            }
+        },
+        "panel-opinions": {
+            "Γνωμοδοτήσεις": {
+                "items": [
+                    {
+                        "Υπηρεσία": "Διεύθυνση Συντονισμού και Επιθεώρησης Δασών Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Αναμονή γνωμοδότησης",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Αρχαιοτήτων Αρκαδίας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "Δ9 ΠΠΠΑ Παράκαμψη Τεγέας.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Υπηρεσία Νεωτέρων Μνημείων και Τεχνικών Έργων Δυτικής Ελλάδας, Πελοποννήσου και Νοτίου Ιονίου - ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ ΑΝΑΣΤΗΛΩΣΗΣ, ΜΟΥΣΕΙΩΝ & ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ - ΥΠΠΟ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "499697-07-11-2023-Παράκαμψη Τεγέας Δήμου Τρίπολης.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "ΔΑΣΑΡΧΕΙΟ ΤΡΙΠΟΛΗΣ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "EΝΤΥΠΗ Γνωμοδότηση ΓΙΑ ΠΠΠΑ ΤΕΓΕΑΣ (ΑΑ).pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Δασών Αρκαδίας - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "ΓΝΩΜΟΔΟΤΗΣΗ  ΠΑΡΑΚΑΜΨΗ ΤΕΓΕΑΣ.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    }
+                ],
+                "links": [
+                    "",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3draFArcHdWNnZYbUtzcTd5N2loWnJvZkp1M2t0M1QrU2NIWWdhT0gzejNhNXVmR1JaSTYvdDRQbUNDS0R1SUlxYjdGbWdQVmNNaGsyanIzZ1ZyZkY,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaDdQeFp2TGFBVk1ZamJPNVhsRU81MFVWMFF3eno1bGZ2bDlWWjRRb3FxYlNLb09USXNWZmJqd1JiT2YzRHZvcTRRZEM1MG9rdVlvNjhNN1kzZzJvUWc,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaFJUcHd1OVVWZXJIMzdFcklHSFJ4L0ZKU0hCNkNoWnBVUkRiWndGbVZwajUyVEZydWpXSW5ySkd5Z2xKdmZqSU1FL2F6ZW9tNmdxQnVXNm5kbkVicFE,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaEVrU3A5TTN3WElyNFFKR3dybVBFelZ3VDlub2dEQjdlZWI2NmxKWXcrck05bGlBNjQ2WWJnUklLNHFFT2x1RDJDS2xrUnFqMEVNTEdEOFkwVHNWSEI,"
+                ]
+            },
+            "Έντυπο Δ2": {
+                "text": "2024-03-06 Έντυπο Δ2_signed.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaGdrZzlHTWw3WktldTBtMk9OdFBHa29TemIxaVBKNlVsRWVhVDVVaXFtRUhYV0xVZU9MQmpuZ1htdkt2N0VKaVJyZnVUOUV4ZFRvZ3c2MkhZSVB0bEs,"
+                ]
+            }
+        },
+        "panel-evaluation": {
+            "Αξιολόγηση απόφασης ΠΠΠΑ": "Θετική",
+            "Αρχείο ΠΠΠΑ": {
+                "text": "2024-03-08 ΠΠΕΑ Τεγέα.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPamkreU9Qek00dzRaK3BGNHBqMm4vWnRnMWRMTlU3UHh4Y3FCU0pkMHpzNlhRS0Uwci9wYUZRRkltZFlZSVpINFN2Y0MxL2RsYk1mTm5aRzV3cE4yZkg,"
+                ]
+            }
+        }
+    },
+    "2211852823_w6_21": {
+        "panel-application_info": {
+            "Τίτλος Έργου ή Δραστηριότητας": "Κατασκευή δικτύου αποχέτευσης και εγκαταστάσεων επεξεργασία λυμάτων ΕΕΛ οικισμών Αλμυρίδας, Πλάκας, Κόκκινου Χωρίου, Άσπρου και Καμπιά Δήμου Αποκορώνου Π.Ε. Χανίων",
+            "Σύντομος Τίτλος Έργου ή Δραστηριότητας": "Κατασκευή δικτύου αποχέτευσης και εγκαταστάσεων επεξεργασία λυμάτων ΕΕΛ οικισμών Αλμυρίδας, Πλάκας, Κόκκινου Χωρίου, Άσπρου και Καμπιά Δήμου Αποκορώνου Π.Ε. Χανίων",
+            "Αριθμός πρωτοκόλλου υποβολής": "3714/19-10-2022",
+            "Κατάσταση αίτησης": [
+                "Υποβολή",
+                "Έλεγχος πληρότητας",
+                "Γνωμοδοτήσεις",
+                "Τελική αξιολόγηση",
+                "Ολοκλήρωση"
+            ],
+            "Ημερομηνία υποβολής": "2022-11-04 11:30:30",
+            "ΠΕΤ": "2211852823",
+            "Φορέας Έργου ή Δραστηριότητας": "Δήμος Αποκορώνου",
+            "Ανάθεση σε": "Στυλιανή Δακανάλη"
+        },
+        "panel-application_authority": {
+            "Διεύθυνση": "Δ/νση Περιβάλλοντος & Χωρικού Σχεδιασμού Κρήτης",
+            "Τμήμα": "Τμήμα Περιβαλλοντικού & Χωρικού Σχεδιασμού Κρήτης"
+        },
+        "panel-company_info": {
+            "Επωνυμία": "Δήμος Αποκορώνου",
+            "ΑΦΜ": "997570100",
+            "ΔΟΥ": "ΧΑΝΙΩΝ",
+            "Διεύθυνση": "Βρύσες Αποκορώνου – Δημαρχείο ΤΚ 73007",
+            "Περιοχή": "Βρύσες Αποκορώνου",
+            "Fax": "",
+            "Email": "info@apokoronas.gov.gr",
+            "Υπεύθυνος επικοινωνίας": "Ευαγγελία Καστρινάκη",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2825340307",
+            "Email υπεύθυνου επικοινωνίας": "vana@apokoronas.gov.gr",
+            "Θέση υπεύθυνου επικοινωνίας": "Προϊσταμένη Τμήματος Τεχνικών Υπηρεσιών Δήμου Αποκορώνου"
+        },
+        "panel-studier_info": {
+            "Επωνυμία": "\"ΕΡΜΗΣ ΜΕΛΕΤΗΤΙΚΗ\" Αικ. Μουντάκη & Σια Ε.Ε.",
+            "Διεύθυνση": "Α.Παπανδρέου 55 –Χανιά Κρήτη , ΤΚ: 73100",
+            "Περιοχή": "Χανιά Κρήτη",
+            "Fax": "",
+            "Email": "kprotop@gmail.com",
+            "Υπεύθυνος επικοινωνίας": "Πρωτοπαπαδάκης Κώστας",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2821043600",
+            "Email υπεύθυνου επικοινωνίας": "kprotop@gmail.com",
+            "Θέση υπεύθυνου επικοινωνίας": "Υπεύθυνος εκπόνησης μελέτης"
+        },
+        "panel-project_info": {
+            "Κατάταξη Έργου / Δραστηριότητας - Κύρια": "Ομάδα 4η: Συστήματα περιβαλλοντικών υποδομών / Εγκαταστάσεις επεξεργασίας αστικών λυμάτων (πόλεων και οικισμών) με διάθεση επεξεργασμένων υγρών σε επιφανειακό υδάτινο αποδέκτη ή τη θάλασασα",
+            "text_0": "Ομάδα 4η: Συστήματα περιβαλλοντικών υποδομών / Εγκαταστάσεις επεξεργασίας αστικών λυμάτων (πόλεων και οικισμών) με διάθεση επεξεργασμένων υγρών στο έδαφος (π.χ. για εμπλουτισμό υπόγειου υδροφορέα ή για άρδευση) ή για αστική - βιομηχανική χρήση (α) άμεσος εμπλουτισμός υπόγειου υδροφορέα (i) για υδατικά",
+            "Κατάταξη Έργου / Δραστηριότητας - Δευτερεύουσα": "Ομάδα 4η: Συστήματα περιβαλλοντικών υποδομών / Εγκαταστάσεις επεξεργασίας αστικών λυμάτων (πόλεων και οικισμών) με διάθεση επεξεργασμένων υγρών στο έδαφος (π.χ. για εμπλουτισμό υπόγειου υδροφορέα ή για άρδευση) ή για αστική - βιομηχανική χρήση (α) άμεσος εμπλουτισμός υπόγειου υδροφορέα (i) για υδατικά",
+            "Κατηγορία / Υποκατηγορία Έργου ή Δραστηριότητας": "A2",
+            "Α/Α (1-226)": ""
+        },
+        "panel-location": {
+            "coordinates": {
+                "type": "single",
+                "points": [
+                    {
+                        "type": "Αρχή",
+                        "EGSA87": {
+                            "x": "519252.42",
+                            "y": "3921713.88"
+                        },
+                        "WGS84": {
+                            "φ": "35.4412874",
+                            "λ": "24.2137738"
+                        }
+                    }
+                ],
+                "raw": "35.4412874,24.2137738"
+            },
+            "location_name": "νότια του οικισμού της Αλμυρίδας του Δήμου Αποκορώνου",
+            "administrative_hierarchies": [
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΧΑΝΙΩΝ",
+                    "ΔΗΜΟΣ ΑΠΟΚΟΡΩΝΟΥ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΒΑΜΟΥ"
+                ]
+            ]
+        },
+        "panel-files": {
+            "Έντυπο Υ": {
+                "text": "0 Y almirida (1)_signed.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ0w4c3BwSGswalNBUmpZOEJSOEIwQlpoMDRWeWhOb0lRMUI0dGZhYkVoRHU5emFvT1EvUzNUWGpENVJOWjhjcTU4K2tKUkxSRi9HQlNXVDNTVDgwMU0,"
+                ]
+            },
+            "Φάκελος ΠΠΠΑ": {
+                "items": [
+                    "1 ΠΠΠΑ 2-10-22_signed_vanasigned.pdf",
+                    "1_1_ptyxio.jpg"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakFDZkRFODE5ZU1PM2VXMWJkdlBZK1VUYk5saFZqSGFjWEpPZlB5VlFmVUNJZDlOWnVaYTFQc3NLU24ydENjTUpiTGJwMDFMQmJkRXBKYTlWNmxESy8,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ0w4c3BwSGswalNBUmpZOEJSOEIwQlpoMDRWeWhOb0lRMUI0dGZhYkVoRHJSbEJ6L1d2UXFKMlV1R0hZby9Nc1k5UVZ0bVc5TGdtUkJBR09SVFNlN3c,"
+                ]
+            },
+            "Σχέδια": {
+                "items": [
+                    "2 ΟΡΙΖΟΝΤΙΟΓΡΑΦΙΑ ΓΕΝΙΚΗΣ ΔΙΑΤΑΞΗΣ ΕΡΓΩΝ_signed.pdf",
+                    "3 ΓΕΝΙΚΗ ΔΙΑΤΑΞΗ ΕΓΚΑΤΑΣΤΑΣΗΣ_SIGNED.pdf",
+                    "4 ΣΧΕΔΙΟ ΕΝΑΛΛΑΚΤΙΚΩΝ_signed.pdf",
+                    "5 ΟΡΙΖΟΝΤΙΟΓΡΑΦΙΑ ΥΠΟΘΑΛΑΣΣΙΟΥ ΑΓΩΓΟΥ_signed.pdf",
+                    "6 ΔΙΑΓΡΑΜΜΑ ΡΟΗΣ ΑΠΟΧΕΤΕΥΤΙΚΟΥ ΔΙΚΤΥΟΥ signed.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ0w4c3BwSGswalNBUmpZOEJSOEIwQlpoMDRWeWhOb0lRMUI0dGZhYkVoRHViMThwQi96WmQvbFFtVnJPSitDQzZNZ0ZBRzRoVFYveVBFOS9EMUlSb3g,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ0w4c3BwSGswalNBUmpZOEJSOEIwQlpoMDRWeWhOb0lRMUI0dGZhYkVoRHR3NnhqeUR0L0VYenNMQWU0ajZnVkxhc09XbXFtWDhZQVcvTGNaL08rM0g,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ0w4c3BwSGswalNBUmpZOEJSOEIwQlpoMDRWeWhOb0lRMUI0dGZhYkVoRHN4MWJ4cnFpMDJXenh1NllqTmhaU1lKZTJrdzY5eHlsakZKTURrREFGemM,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ0w4c3BwSGswalNBUmpZOEJSOEIwQlpoMDRWeWhOb0lRMUI0dGZhYkVoRHJ0SVpHcU5INFVXMjdHWlNHclU0cnNzVnRkMVdyYXo0WUhyY3pYVVBURU0,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ0w4c3BwSGswalNBUmpZOEJSOEIwQlpoMDRWeWhOb0lRMUI0dGZhYkVoRHZ5U3ZtN01VUlNoS2ludU9FQUcrMFI4cVM0cm04eDMzTVZ0TFZiRTlBMjg,"
+                ]
+            },
+            "Φωτογραφίες": [],
+            "Έγγραφα, Εγκρίσεις, Άδειες κλπ": {
+                "items": [
+                    "7_nevtervn.jpg",
+                    "8_ydatvn_.pdf",
+                    "9_efa_.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakFDZkRFODE5ZU1PM2VXMWJkdlBZK1VUYk5saFZqSGFjWEpPZlB5VlFmVU1rUDNzZkZFYmJvUlpiVTBPT3Jyb2tieFh1TEZTZWhxaDc4TUVFdGFpNkY,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakFDZkRFODE5ZU1PM2VXMWJkdlBZK1VUYk5saFZqSGFjWEpPZlB5VlFmVUVQTTErK2MwV21KTkQ4Y0I5L3RCN2pqVkh5TG8wL3ZJZlZnNGhKbGFZRlU,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakFDZkRFODE5ZU1PM2VXMWJkdlBZK1VUYk5saFZqSGFjWEpPZlB5VlFmVUtUYXR2T3Z5c0RSSTJZNGViRmh1dFBLUC9YSXMvRmZvZWNnR2xLelNjM0Y,"
+                ]
+            },
+            "Χάρτες – Χωροθέτηση": {
+                "items": [
+                    "2 ΟΡΙΖΟΝΤΙΟΓΡΑΦΙΑ ΓΕΝΙΚΗΣ ΔΙΑΤΑΞΗΣ ΕΡΓΩΝ_signed.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ0w4c3BwSGswalNBUmpZOEJSOEIwQlpoMDRWeWhOb0lRMUI0dGZhYkVoRG1URGNvOXlneTVsTkZjc3UwL0xJck5mZTQ3ZjFudVZNOWN4ZmtJODdXaWw,"
+                ]
+            }
+        },
+        "panel-opinions": {
+            "Γνωμοδοτήσεις": {
+                "items": [
+                    {
+                        "Υπηρεσία": "Διεύθυνση Υδάτων Κρήτης - Αποκεντρωμένη Διοίκηση Κρήτης",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "Γνωμοδότηση Αλμυρίδα_signed.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Περιφερειακή Επιτροπή Χωροταξίας και Περιβάλλοντος (ΠΕΧΩΠ) ΠΕ Χανίων",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "2895_2022.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Συντονισμού και Επιθεώρησης Δασών Κρήτης - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "349156_07-07-2023 Δ8_ΠΠΠΑ_ΠΕΤ_2211852823_S.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Εναλίων Αρχαιοτήτων - Γενική Διεύθυνση Αρχαιοτήτων και Πολιτιστικής Κληρονομιάς - ΥΠΠΟΑ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "2022_565039_Φ.428_ΠΕ Χανίων -  Δ. Αποκορώνου - Αλμυρίδα - ΠΠΠΑ Επεξεργασίας Λυμάτων.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Παλαιοανθρωπολογίας-Σπηλαιολογίας Νότιας Ελλάδος - Γενική Διεύθυνση Αρχαιοτήτων και Πολιτιστικής Κληρονομιάς - ΥΠΠΟ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "Δίκτυο Αποχέτευσης Λύματα ΕΕΛ Αλμυρίδας, Πλάκας, Κόκκινου Χωριού, Καμπιών Έντυπo Δ8.docx",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "ΓΕΕΘΑ -Διεύθυνση Γ2- Υπουργείο Εθνικής Άμυνας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "1295.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Λιμενικών και Κτιριακών Υποδομών - Υπουργείο Ναυτιλίας & Νησιωτικής Πολιτικής",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "39171-Γνωμοδότηση Δ8 επί ΠΠΠΑ Αποχετευτικό & ΜΕΥΑ Δ_Αποκορώνου.signed.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Δασών Χανίων - Υπουργείο Περιβάλλοντος &Ενέργειας",
+                        "Αξιολόγηση": "Αδυναμία γνωμοδότησης λόγω ελλείψεων",
+                        "Γνωμοδότηση": "4324-2022--ΕΙΣΕΡΧ--ΠΡΟΣΚΟΜΙΣΗΣΥΜΠΛΗΡΩΜΑΤΙΚΩΝΣΤΟΙΧΕΙΩΝΠΠΑ.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "4324/23-12-2022",
+                        "Συμπληρωματικά στοιχεία": ""
+                    }
+                ],
+                "links": [
+                    "",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaVNUeWF0SmFVRUsvSExmdTRha25peDlGNXI3T1dIcnJYSWZCa3ZaemdDSjFqNnJGd2xVcklQNkdrYjJWNUFMcmRuMmpxcGF3UnVDdjZCT3JrVEpNSFc,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ29QZzIyMmxnZXBMa0lDQTZDZzVJR1lUVktJNlpLV1k5aDJYUkNJb3d4RkF3WmxId09kY1lhZExqUnRUOVRCOE51YmN4MHVZMVhvbkdrVW5QRm5Mc2Y,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaHU5MkpzM2RkdEhTMnFKeDVpb3lLYkZIeWJQNHFhd3c1V0JsbkdnYnpOTERNeW5xQXZBRHNxd3NkbkhZM1ZZSUZ4ekdwZ1ZFY0hZUVlyY2s1dmtkRVo,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaVI4SzNaYnZzc3BxRGRScUJRZ1JVTUVMWHhmYVBta3ZwOGsvRW81ZjN3aEVqa2xGdUV3UUJRSU9WaFBObyt2YzcvOVMzVENNcVBSU0pHVVp0ZW0wcVg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPalJmS3ZXSDk4NHVYQVd2dkhsaVJJa01lNG9GSzNpNWRzcWN2WUFnZEFlQUd4Mmc0aTJVQ2hQYXRQUEtyUjUzMzB5aGlhTEt2QlNOdDJXekJXTVRBSjk,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ21yczY2UFgyVmsxMmt6WnJlTENGQ3hKVFFBa056OEdwYlE3Tk1Pd1ZGN3BGVnVWU1VsdkFMZ0tDWWhvV09mNXJNMmZsNHZBWjVQNHdsN0ZWcTBuR1k,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPajFMNFZ0ckpMVndIbVFjRWhiZkFpMDZ0QlFhNzEvSnVJRXlJejZMcExyYThoUzJFZ1NwS0ZJMzJ1VDFYTHFSRFZyeWdsSXYwYlk5ZG1RT0pKcjJuS0Q,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaVNUeWF0SmFVRUsvSExmdTRha25peDlGNXI3T1dIcnJYSWZCa3ZaemdDSjRpNG14ZTFuM3dqSVFTT0tTOXBOangyeVRxSkoxMVRvTEJHL3AvVjZTbE4,"
+                ]
+            },
+            "Έντυπο Δ2": {
+                "text": "D2_ENTYPO_EPOPTEIAS_GNWMODOTHSEWN_PPPA.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3R3VnVKS01TYmsycFVKUHdONzFRT2NTSWpoS3NacXRVRFJmNHhpMG9vUGQyNGpmY0ZzUXRTNk1scUZyY1oxNWlVNE8yM2c4TXBTb0RrL1RvaUw1MlQ,"
+                ]
+            }
+        },
+        "panel-evaluation": {
+            "Αξιολόγηση απόφασης ΠΠΠΑ": "Θετική",
+            "Αρχείο ΠΠΠΑ": {
+                "text": "αναρτημένη ΠΠΠΑ.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaGVlN21UckZqa0o4T0c3Q2h3UGs2bHNUL2k1blJBMTFPdE4zeS9ORVdkMDcxejdXQ0g4Zk5OM1NHUkROVURSUlIvSFJVR0ZVUWZ6NUdyUGdiNktQTE8,"
+                ]
+            }
+        }
+    },
+    "2210848228_w6_20": {
+        "panel-application_info": {
+            "Τίτλος Έργου ή Δραστηριότητας": "Μελέτη ΠΠΠΑ για το έργο: «Ολοκλήρωση κατά τμήματα του οδικού άξονα Κιβέρι- Λεωνίδιο-Πουλίθρα-Κυπαρίσσι στο τμήμα Έξοδος Ξηροπηγάδου-Όρια Αρκαδικού Χωριού» στην Π.Ε. Αρκαδίας",
+            "Σύντομος Τίτλος Έργου ή Δραστηριότητας": "Μελέτη ΠΠΠΑ για το έργο: «Ολοκλήρωση κατά τμήματα του οδικού άξονα Κιβέρι- Λεωνίδιο-Πουλίθρα-Κυπαρίσσι στο τμήμα Έξοδος Ξηροπηγάδου-Όρια Αρκαδικού Χωριού» στην Π.Ε. Αρκαδίας",
+            "Αριθμός πρωτοκόλλου υποβολής": "167894/02-11-2022",
+            "Κατάσταση αίτησης": [
+                "Υποβολή",
+                "Έλεγχος πληρότητας",
+                "Γνωμοδοτήσεις",
+                "Τελική αξιολόγηση",
+                "Ολοκλήρωση"
+            ],
+            "Ημερομηνία υποβολής": "2022-10-25 11:29:56",
+            "ΠΕΤ": "2210848228",
+            "Φορέας Έργου ή Δραστηριότητας": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ(ΕΔΡΑΣ) - ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+            "Ανάθεση σε": "ΣΤΥΛΙΑΝΟΣ ΣΠΑΝΟΣ"
+        },
+        "panel-application_authority": {
+            "Διεύθυνση": "Δ/νση Περιβάλλοντος & Χωρικού Σχεδιασμού Πελοποννήσου",
+            "Τμήμα": "Τμήμα Περιβαλλοντικού & Χωρικού Σχεδιασμού Πελοποννήσου"
+        },
+        "panel-company_info": {
+            "Επωνυμία": "Περιφέρεια Πελοποννήσου Γενική /Διεύθυνση Αναπτυξιακού Προγραμματισμού Περιβάλλοντος και Υποδομών /Δ.Τ.Ε (ΕΔΡΑΣ)",
+            "ΑΦΜ": "998037420",
+            "ΔΟΥ": "ΤΡΙΠΟΛΗΣ",
+            "Διεύθυνση": "ΝΑΥΠΛΙΟΥ 57",
+            "Περιοχή": "ΤΡΙΠΟΛΗ",
+            "Fax": "",
+            "Email": "dteperpel@gmail.com",
+            "Υπεύθυνος επικοινωνίας": "ΓΕΩΡΓΙΟΣ ΜΟΥΤΑΦΙΔΗΣ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2710238559",
+            "Email υπεύθυνου επικοινωνίας": "dteperpel@gmail.com",
+            "Θέση υπεύθυνου επικοινωνίας": "ΑΝΑΠΛΗΡΩΤΗΣ ΠΡΟΪΣΤΑΜΕΝΟΣ"
+        },
+        "panel-studier_info": {
+            "Επωνυμία": "ΚΩΝΣΤΑΝΤΙΝΟΣ ΓΙΑΝΝΟΥΧΟΣ",
+            "Διεύθυνση": "Βασιλέως Κωνσταντίνου 91, Αλμυρός, Τ.Κ. 37100",
+            "Περιοχή": "Αλμυρός, Τ.Κ. 37100",
+            "Fax": "",
+            "Email": "info@morias-aota.gr",
+            "Υπεύθυνος επικοινωνίας": "Φώτιος Καλλιανιώτης",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2710224200",
+            "Email υπεύθυνου επικοινωνίας": "info@morias-aota.gr",
+            "Θέση υπεύθυνου επικοινωνίας": ""
+        },
+        "panel-project_info": {
+            "Κατάταξη Έργου / Δραστηριότητας - Κύρια": "Ομάδα 1η: Έργα χερσαίων και εναέριων μεταφορών / A III Οδός μεταξύ επαρχιών/οικισμών",
+            "text_0": "Ομάδα 1η: Έργα χερσαίων και εναέριων μεταφορών / Εκσυγχρονισμός, επέκταση, βελτίωση ή τροποποίηση υφιστάμενων έργων οδοποιίας",
+            "Κατάταξη Έργου / Δραστηριότητας - Δευτερεύουσα": "Ομάδα 1η: Έργα χερσαίων και εναέριων μεταφορών / Εκσυγχρονισμός, επέκταση, βελτίωση ή τροποποίηση υφιστάμενων έργων οδοποιίας",
+            "Κατηγορία / Υποκατηγορία Έργου ή Δραστηριότητας": "A2",
+            "Α/Α (1-226)": ""
+        },
+        "panel-location": {
+            "coordinates": {
+                "type": "single",
+                "points": [
+                    {
+                        "type": "Αρχή",
+                        "EGSA87": {
+                            "x": "394044.8",
+                            "y": "4132673.71"
+                        },
+                        "WGS84": {
+                            "φ": "37.3373167",
+                            "λ": "22.8055842"
+                        }
+                    }
+                ],
+                "raw": "37.3373167,22.8055842"
+            },
+            "location_name": "",
+            "administrative_hierarchies": [
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
+                    "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ"
+                ]
+            ]
+        },
+        "panel-files": {
+            "Έντυπο Υ": {
+                "text": "Y-7_signed.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaG5NeGpzSGtGWEppY3BxcTRDbTkydm52QzlmeStrcmlEZGp0d1poT29RMGdEYTBsd2Q3N2RZWTZJS2ZEcVpHU2NPSHZJcFB0NElzelkvdHhSdTFZNEQ,"
+                ]
+            },
+            "Φάκελος ΠΠΠΑ": {
+                "items": [
+                    "T1-Μελέτη Προκαταρκτικού Προσδιορισμού Περιβαλλοντκών Απαιτήσεων_signed2_Signed1.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaG5NeGpzSGtGWEppY3BxcTRDbTkydm52QzlmeStrcmlEZGp0d1poT29RMG92M0lpMzVDcnVWQXFKbVFkNm5RNVN1T08ydjRYVEVPY1U1RDAwNU54S1M,"
+                ]
+            },
+            "Σχέδια": {
+                "items": [
+                    "ΠΠΠΑ-6 Τυπική διατομή_signed2_Signed1.pdf",
+                    "ΠΠΠΑ-5 Οριζοντιογραφία_signed2_Signed1.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaG5NeGpzSGtGWEppY3BxcTRDbTkydm52QzlmeStrcmlEZGp0d1poT29RMGkzdVhLa2wxdHVJWFo0RmFZT3VuSE1PMS9Na05BdkxuS3g4QTJqbnZOQkw,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaG5NeGpzSGtGWEppY3BxcTRDbTkydm52QzlmeStrcmlEZGp0d1poT29RMG84VStwakJWSE9Pd3NzU3JGcHdSSW1MTUpYalQycGhQNFRoOHRYMXVkOXA,"
+                ]
+            },
+            "Φωτογραφίες": [],
+            "Έγγραφα, Εγκρίσεις, Άδειες κλπ": [],
+            "Χάρτες – Χωροθέτηση": {
+                "items": [
+                    "ΠΠΠΑ-1 Χάρτης Προσανατολισμού_signed2_Signed1.pdf",
+                    "ΠΠΠΑ-2 Χάρτης Περιοχής Μελέτης_signed2_Signed1.pdf",
+                    "ΠΠΠΑ-3 Χάρτης Εναλλακτικών Λύσεων_signed2_Signed1.pdf",
+                    "ΠΠΠΑ-4 Χάρτης Χρήσεων και Κάλυψης Γης_signed2_Signed1.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaG5NeGpzSGtGWEppY3BxcTRDbTkydm52QzlmeStrcmlEZGp0d1poT29RMHJrM0oxTk1DbjdTeWJ6ZGxraDJxOWx4MEhLeW85dEVXMEUvMGJEcjJwaGk,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaG5NeGpzSGtGWEppY3BxcTRDbTkydm52QzlmeStrcmlEZGp0d1poT29RMG4xRXRsV0R2Wm43ZExjNDAzbTY4UytDeFdZd2U1RURqTGw1UXJua0I4dEE,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaG5NeGpzSGtGWEppY3BxcTRDbTkydm52QzlmeStrcmlEZGp0d1poT29RMHRrK2VXdm4rNEx1emZkcU9pYWVJWnFyUkZwYzVyZ0NJTUtrLzk4OVFSN1o,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaG5NeGpzSGtGWEppY3BxcTRDbTkydm52QzlmeStrcmlEZGp0d1poT29RMHNzczJaekYwL2Z5R2l1cVg3eTRLNnhrNEhKRU15cWRzaGk1RlhrdTRzQ0M,"
+                ]
+            }
+        },
+        "panel-opinions": {
+            "Γνωμοδοτήσεις": {
+                "items": [
+                    {
+                        "Υπηρεσία": "Διεύθυνση Συντονισμού και Επιθεώρησης Δασών Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Αναμονή γνωμοδότησης",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Αρχαιοτήτων Αρκαδίας",
+                        "Αξιολόγηση": "Αναμονή γνωμοδότησης",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Υπηρεσία Νεωτέρων Μνημείων και Τεχνικών Έργων Δυτικής Ελλάδας, Πελοποννήσου και Νοτίου Ιονίου - ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ ΑΝΑΣΤΗΛΩΣΗΣ, ΜΟΥΣΕΙΩΝ & ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ - ΥΠΠΟ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "Εξ 536104 112022.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Διαχείρισης Φυσικού Περιβάλλοντος & Βιοποικιλότητας - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Αναμονή γνωμοδότησης",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Δασών Αρκαδίας - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "ΓΝΩΜΟΔΟΤΗΣΗ     ΞΗΡΟΠΗΓΑΔΟ_ΟΡΙΑ ΑΡΚΑΔΙΚΟΥ ΧΩΡΙΟΥ (ΑΑ).pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Οργανισμός Φυσικού Περιβάλλοντος και Κλιματικής Αλλαγής (ΟΦΥΠΕΚΑ)",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "2022-12-14 Γνώμη ΟΦΥΠΕΚΑ.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "24851/14-12-2022",
+                        "Συμπληρωματικά στοιχεία": ""
+                    }
+                ],
+                "links": [
+                    "",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaEY4eTl6L3F5OTQwbXNSZ2hEeWdUaVlkZ09wYlltUGZqMzBBajkwNDFDSTFpSXppanNHQlpUcVZaazZKbWhpUldaL0RCQllvWi9SQzdJVUp3WjFaeG0,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaUVCWnRKK2kvVG1oVDNDbm9UVW0xNlZ1dE1Lb2xqQXJFbnpQV1drNU9RZWRudkttMWRUSEdWZUZ1U1VwbmFjd0llTUVYUUtGR2VOY21XbHMxT0F5c3o,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaFF0QVROKzdwOCtzTWl2ZnQ2Z2NURlA1L2VkcWdCRFROdVZ4NFJLODg4Q0dObG55N3ROM2NFdFc1Wnk2aU14WWdTU3Rhb0NPSjFHYnFjRmE1eVUzSlo,"
+                ]
+            },
+            "Έντυπο Δ2": {
+                "text": "2023-01-12 Έντυπο Δ2_signed.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaFF0QVROKzdwOCtzTWl2ZnQ2Z2NURlA1L2VkcWdCRFROdVZ4NFJLODg4Q0xkQ0VNY0gyTlZnMWZ5L2NGQnNsWVNHRXFoQ3FUYUVJWDBySzJtc2tBNDc,"
+                ]
+            }
+        },
+        "panel-evaluation": {
+            "Αξιολόγηση απόφασης ΠΠΠΑ": "Θετική",
+            "Αρχείο ΠΠΠΑ": {
+                "text": "2023-01-13 ΠΠΠΑ Ξηροπήγαδο.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaEpTQnlGeUhkbXdnb0lOM2pTUjBlbTViVmIzeUZ1cFhEbXEzUmVJbHRJV3hUVVRZcGh0Q1hrcllBOHdGWTlTY3locmdqMjY3T3g3RFYxOWRNVUF2Y2g,"
+                ]
+            }
+        }
+    },
+    "2207798527_w6_18": {
+        "panel-application_info": {
+            "Τίτλος Έργου ή Δραστηριότητας": "Ε.Ο. ΣΑΜΟΣ – ΚΑΡΛΟΒΑΣΙ, ΤΜΗΜΑ ΑΓ. ΚΩΝΣΤΑΝΤΙΝΟΥ (ΑΝΑΤΟΛΙΚΗ ΠΡΟΣΒΑΣΗ)",
+            "Σύντομος Τίτλος Έργου ή Δραστηριότητας": "Ε.Ο. Σάμος - Καρλόβασι τμήμα Κέδρο - Κοκκάρι",
+            "Αριθμός πρωτοκόλλου υποβολής": "34520/25.07.2022",
+            "Κατάσταση αίτησης": [
+                "Υποβολή",
+                "Έλεγχος πληρότητας",
+                "Γνωμοδοτήσεις",
+                "Τελική αξιολόγηση",
+                "Ολοκλήρωση"
+            ],
+            "Ημερομηνία υποβολής": "2022-07-06 14:59:15",
+            "ΠΕΤ": "2207798527",
+            "Φορέας Έργου ή Δραστηριότητας": "DTEPESAMOU",
+            "Ανάθεση σε": "Χρήστος Γούλας"
+        },
+        "panel-application_authority": {
+            "Διεύθυνση": "Δ/νση Περιβάλλοντος & Χωρικού Σχεδιασμού Βορείου Αιγαίου",
+            "Τμήμα": "Τμήμα Περιβαλλοντικού & Χωρικού Σχεδιασμού Βορείου Αιγαίου"
+        },
+        "panel-company_info": {
+            "Επωνυμία": "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΣΑΜΟΥ/ ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ",
+            "ΑΦΜ": "997817101",
+            "ΔΟΥ": "ΜΥΤΙΛΗΝΗΣ",
+            "Διεύθυνση": "ΔΕΡΒΕΝΑΚΙΩΝ ΚΑΙ Α. ΑΛΕΞΗ",
+            "Περιοχή": "ΣΑΜΟΣ",
+            "Fax": "",
+            "Email": "georgia.fragkoulaki@samos.gr",
+            "Υπεύθυνος επικοινωνίας": "ΦΡΑΓΚΟΥΛΑΚΗ ΓΕΩΡΓΙΑ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2273350473",
+            "Email υπεύθυνου επικοινωνίας": "georgia.fragkoulaki@samos.gr",
+            "Θέση υπεύθυνου επικοινωνίας": ""
+        },
+        "panel-studier_info": {
+            "Επωνυμία": "ΤΟ.Π.Π.Ο.Σ. ΣΥΜΒΟΥΛΟΙ ΜΗΧΑΝΙΚΟΙ Α.Ε.",
+            "Διεύθυνση": "ΜΑΡΝΗ 4",
+            "Περιοχή": "ΑΘΗΝΑ",
+            "Fax": "",
+            "Email": "secretary@toppos.gr",
+            "Υπεύθυνος επικοινωνίας": "ΒΑΡΔΟΥΛΆΚΗΣ ΕΥΤΥΧΙΟΣ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2108213844",
+            "Email υπεύθυνου επικοινωνίας": "evardo@toppos.gr",
+            "Θέση υπεύθυνου επικοινωνίας": ""
+        },
+        "panel-project_info": {
+            "Κατάταξη Έργου / Δραστηριότητας - Κύρια": "Ομάδα 1η: Έργα χερσαίων και εναέριων μεταφορών / A III Οδός μεταξύ επαρχιών/οικισμών",
+            "text_0": "Ομάδα 1η: Έργα χερσαίων και εναέριων μεταφορών / A III Οδός μεταξύ επαρχιών/οικισμών",
+            "Κατάταξη Έργου / Δραστηριότητας - Δευτερεύουσα": "",
+            "Κατηγορία / Υποκατηγορία Έργου ή Δραστηριότητας": "A2",
+            "Α/Α (1-226)": ""
+        },
+        "panel-location": {
+            "coordinates": {
+                "type": "linear",
+                "points": [
+                    {
+                        "type": "Αρχή",
+                        "EGSA87": {
+                            "x": "756895",
+                            "y": "4183984"
+                        },
+                        "WGS84": {
+                            "φ": "37.7696788",
+                            "λ": "26.918267"
+                        }
+                    },
+                    {
+                        "type": "Μέση",
+                        "EGSA87": {
+                            "x": "755903",
+                            "y": "4184217.99"
+                        },
+                        "WGS84": {
+                            "φ": "37.7720634",
+                            "λ": "26.9071006"
+                        }
+                    },
+                    {
+                        "type": "Τέλος",
+                        "EGSA87": {
+                            "x": "754856",
+                            "y": "4184367"
+                        },
+                        "WGS84": {
+                            "φ": "37.7736972",
+                            "λ": "26.8952797"
+                        }
+                    }
+                ],
+                "raw": "37.7696788,26.918267-37.7720634,26.9071006-37.7736972,26.8952797"
+            },
+            "location_name": "ΚΕΔΡΟΣ - ΚΟΚΚΑΡΙ",
+            "administrative_hierarchies": [
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΣΑΜΟΥ",
+                    "ΔΗΜΟΣ ΣΑΜΟΥ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΒΑΘΕΟΣ"
+                ]
+            ]
+        },
+        "panel-files": {
+            "Έντυπο Υ": {
+                "text": "Y_ENTYPO_YPOVOLHS_STOIXEIWN_DSIGNED.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanNGQjRHcmxhb0VEUUhEbG8xNnQyOUdZMnZZbTJ5Ti9KOFJLOHZ4QjlxK25mUGpTRGhEK0pYK2JxYjUrZ09zdGc4SWt0b2VQTm5xdVhKYytFelkzTmQ,"
+                ]
+            },
+            "Φάκελος ΠΠΠΑ": {
+                "items": [
+                    "signed 1 1902_2701_teyxos__PPPA_kedro_kokkari.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanNGQjRHcmxhb0VEUUhEbG8xNnQyOUdZMnZZbTJ5Ti9KOFJLOHZ4QjlxK3FwNlczQldMZmZLU2l6U3Ewd1ZmcnZxM1JQWWNHMFMvMVMrd25kZmJLMDI,"
+                ]
+            },
+            "Σχέδια": {
+                "items": [
+                    "signed 2 1902_2701_sxedio_PPE1 (1).pdf",
+                    "signed 3 1902_2701_sxedio_PPE2 (1).pdf",
+                    "signed 4 1902_2701_sxedio_PPE3 (1).pdf",
+                    "signed 5 1902_2701_sxedio_PPE4 (1).pdf",
+                    "signed 6 1902_2701_sxedio_PPE5 (1).pdf",
+                    "signed 7 1902_2701_sxedio_PPE6 (1).pdf",
+                    "signed 8 1902_2701_M1_MHK_KYRIAS_ODOY_LYSH_I_5000 (1).pdf",
+                    "signed 9 1902_2701_M2_MHK_KYRIAS_ODOY_LYSH_II_5000 (1).pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanNGQjRHcmxhb0VEUUhEbG8xNnQyOUdZMnZZbTJ5Ti9KOFJLOHZ4QjlxK2xzMzVBaUx3d29qN1ppWUFWUVJNYXZnSDBCY0xMT1RiTk9ZVUxDTnU4TEE,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanNGQjRHcmxhb0VEUUhEbG8xNnQyOUdZMnZZbTJ5Ti9KOFJLOHZ4QjlxK3BiNEtmcis3YU1HeDFzZGFqczhYb0U0SzdhTGxURElmc0F6RkhCUG82clM,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanNGQjRHcmxhb0VEUUhEbG8xNnQyOUdZMnZZbTJ5Ti9KOFJLOHZ4QjlxK29NbVZ6cHZzYjd3bE1CSjk3MlJ4NHFQYmkyM2R2Z2VGMXBDbmVUNU9NUjQ,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanNGQjRHcmxhb0VEUUhEbG8xNnQyOUdZMnZZbTJ5Ti9KOFJLOHZ4QjlxK2tvOVlSVjlBOXc5SXlkNXRyeEtHNnBOZUVrQ2hFbm0yVWM4T0dPdzd3Rzg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanNGQjRHcmxhb0VEUUhEbG8xNnQyOUdZMnZZbTJ5Ti9KOFJLOHZ4QjlxK3MvUjFCRGZXblZGbFZZWHRhcHZTclBqenV1eDlYYi9BajhvWGVkSzhGWjc,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanNGQjRHcmxhb0VEUUhEbG8xNnQyOUdZMnZZbTJ5Ti9KOFJLOHZ4QjlxK3VINlBIMDU2YzJQenhTQVBXMFYzTkZkTDVvNU5JZTFlSVJHcFU3U0hZcXk,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanNGQjRHcmxhb0VEUUhEbG8xNnQyOUdZMnZZbTJ5Ti9KOFJLOHZ4QjlxK2lMOUdHVmkvbTlwUmYvYkVGR1czajhxSkRKYW15bHZjTWE5UWs1eWRvRU0,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanNGQjRHcmxhb0VEUUhEbG8xNnQyOUdZMnZZbTJ5Ti9KOFJLOHZ4QjlxK2dHb0Jrc1MwVzZHNFhNbU9LZ0cxc3N2akJZWVVoa2hUYThNU3NrdEQ0cU8,"
+                ]
+            },
+            "Φωτογραφίες": [],
+            "Έγγραφα, Εγκρίσεις, Άδειες κλπ": [],
+            "Χάρτες – Χωροθέτηση": []
+        },
+        "panel-copies": {
+            "Έγγραφο αιτήματος πρόσθετων αντιτύπων": {
+                "text": "f.3ppa_antigrafa_EO_SamosKarlovasi_tmhmaKedroKokkari.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakdLdG13L01mQVhGOTNsTGYySUFZbS9QR0JQakZiQkM3T0Iva2ZIM21yRnJZUURXS0dpWVlyejdGeGpiZ3BBNDhGb0lpYm5JMGE1NEM2QkIyY2JKcEM,"
+                ]
+            },
+            "Αριθμός Αντιτύπων": "10",
+            "Αριθμός πρωτοκόλλου αντιτύπων και ημερομηνία": "42080/31.08.2022"
+        },
+        "panel-opinions": {
+            "Γνωμοδοτήσεις": {
+                "items": [
+                    {
+                        "Υπηρεσία": "Διεύθυνση Υδάτων Βορείου Αιγαίου - Αποκεντρωμένη Διοίκηση Αιγαίου",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "2022-49615(Ε_Ο_ ΚΕΔΡΟ - ΚΟΚΚΑΡΙ).pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Περιφερειακή Επιτροπή Χωροταξίας και Περιβάλλοντος (ΠΕΧΩΠ) ΠΕ Σάμου",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "f.3ppa_gnwmodothshPechopSamou.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "88462/10.10.2022",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Συντονισμού και Επιθεώρησης Δασών Αιγαίου - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "f.3pppa_gnwmodothshSyntonismoyDaswn.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "183081/12.04.2024",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Αρχαιοτήτων Σάμου - Ικαρίας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "f.3ppa_gnwmodothshEFASamou.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "449753/25.10.2022",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Υπηρεσία Νεωτέρων Μνημείων και Τεχνικών Έργων Βορείου Αιγαίου - Διεύθυνση Νεώτερης Πολιτιστικής Κληρονομιάς - ΥΠΠΟ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "437591_Ε.Ο.ΣΑΜΟΣ-ΚΑΡΛΟΒΑΣΙ_ ΤΜ.ΑΓ.ΚΩΝΝΟΥ ΑΝΑΤ.ΠΡΟΣΒΑΣΗ ΠΠΠΑ_ακριβές.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "ΓΕΕΘΑ -Διεύθυνση Γ2- Υπουργείο Εθνικής Άμυνας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "ΠΡΟΣ ΑΠΟΚ.ΔΙΟΙΚ.ΑΙΓΑΙΟΥ- ΕΝΤ.Δ9-Ε.Ο. ΚΑΡΛΟΒΑΣΙ,ΚΕΔΡΟΣ,ΚΟΚΚΑΡΙ,ΒΑΘΥ,ΣΑΜΟΣ (1175) ΝΟΕ.22.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Υπηρεσία Πολιτικής Αεροπορίας (ΥΠΑ) - Υπουργείο Μεταφορών & Υποδομών",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "ΑΙΓΑΙΟΥ_ΕΟ ΣΑΜΟΣ.pr.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Δασών Σάμου - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Αναμονή γνωμοδότησης",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Υπηρεσία Πολιτικής Αεροπορίας (ΥΠΑ) - Διεύθυνση Δ3",
+                        "Αξιολόγηση": "Αναμονή γνωμοδότησης",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    }
+                ],
+                "links": [
+                    "",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1NhTlhXN25HWnNKTWF5bWJ3Z3lJZ0RYckVIWDFxWmthQ21nVnFjQ3N3OEhFRjZZcHI3MHNTSURPNXB1Q3VwVFg1MGhNVDRlaTZndnRrREFnYWppUmY,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakNqWEEwVGJ1cFVVclV6TmZCQ1p4VERFM3FhUEIrZlVOdmpGOEkvSTRNV3ZENkNLcG12RGRtSGNUTXptS2MxOXQ3MlJJcnRwRFNJSWZ0NjNNWER0ajk,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaGptaEYrSGRNemlUSTVKQnhOYXU2M240dmkzVzI2eHpTcEVORXdPQ0FFQU40RUMzdld0T0xHLzc1bXVPQ0tlN0taeThlUFIyZ09wUisxc3NjWTJGTWY,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanE0bUVyQ1lGTnpWTUdLWEJQeG1PeWovNHFTN3VBZ0pjejgvczlZWVhIM091d3FEK1FOYVk5QXRzNkVIOG1SdVRiVDhLQThLbXhrQlEyV1VPS216Vlo,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaWN4NTVKZDk2R21EZzlhK3R2cStLQ252UitLWUtBSWxCalZSTlhMWXlHMC9WMlVhK2hYMmFrUFUrVEhqZll3VlFFSGZmdEFaN3hRaFgzSXUzRGpvcFI,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaHdVVXVJZTlQNlg3Ly9YeVNTNFRPaWo2Ly9SaithQmQyd1Q4TjVCVjRJUmF3cEJMSnNqVlMrSUN3ZWxYb2tHcm12MzNLQ2lYNTFIUzAyc3lqeGJDZmE,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzFDZkhtZ3F4VFVHN2NDSXp0Nkl5bHpGTzBKb0lEZTlwM2tQeDlUWjJxTG9jZlJ5ZElIejIwSUpIeHdNWVpjSXhEWFRjRFg1cmQ0NkM5VE9SYU5mRkQ,"
+                ]
+            },
+            "Έντυπο Δ2": {
+                "text": "f_3ppa_D2_ENTYPO_EPOPTEIAS_GNWMODOTHSEWN_PPPAsigned.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ2FaTEpBK0R4Ui83QWRqS1NYTVFsNThXTWlabWNCTGNYSW1UcFNySjNUMzl4eVAzb1JpUnRBMGpvSFFITmh5endQdENSWjljNEp6QXI4QytKSkhBTDg,"
+                ]
+            }
+        },
+        "panel-evaluation": {
+            "Αξιολόγηση απόφασης ΠΠΠΑ": "Θετική",
+            "Αρχείο ΠΠΠΑ": {
+                "text": "ΨΛΔΑΟΡ1Ι-ΙΤΦ.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaGMrRENpaHVXNkdLZU9oR2p0ZzI0c3NuczNrYzM5UjBuNEQxN2Y5Y3FUNW9zWVczNm9nbVE5em5LNkdIWjFZT2NMNGRraHYvbzZMUXEyUklObWlWMUQ,"
+                ]
+            }
+        }
+    },
+    "2206790525_w6_17": {
+        "panel-application_info": {
+            "Τίτλος Έργου ή Δραστηριότητας": "ΜΕΛΕΤΗ ΓΙΑ ΤΗΝ ΚΑΤΑΣΚΕΥΗ ΤΗΣ Ε.Ο. ΚΟΡΙΝΘΟΣ- ΣΟΦΙΚΟ - ΑΡΧΑΙΑ ΕΠΙΔΑΥΡΟΣ ΣΤΟ ΤΜΗΜΑ ΑΝΩ ΑΛΜΥΡΗ ΕΩΣ ΘΕΑΤΡΟ ΑΡΧΑΙΑΣ ΕΠΙΔΑΥΡΟΥ ΚΑΤΑ ΤΜΗΜΑΤΑ",
+            "Σύντομος Τίτλος Έργου ή Δραστηριότητας": "ΜΕΛΕΤΗ ΓΙΑ ΤΗΝ ΚΑΤΑΣΚΕΥΗ ΤΗΣ Ε.Ο. ΚΟΡΙΝΘΟΣ- ΣΟΦΙΚΟ - ΑΡΧΑΙΑ ΕΠΙΔΑΥΡΟΣ ΣΤΟ ΤΜΗΜΑ ΑΝΩ ΑΛΜΥΡΗ ΕΩΣ ΘΕΑΤΡΟ ΑΡΧΑΙΑΣ ΕΠΙΔΑΥΡΟΥ ΚΑΤΑ ΤΜΗΜΑΤΑ",
+            "Αριθμός πρωτοκόλλου υποβολής": "21-06-2022",
+            "Κατάσταση αίτησης": [
+                "Υποβολή",
+                "Έλεγχος πληρότητας",
+                "Γνωμοδοτήσεις",
+                "Τελική αξιολόγηση",
+                "Ολοκλήρωση"
+            ],
+            "Ημερομηνία υποβολής": "2022-06-21 15:28:05",
+            "ΠΕΤ": "2206790525",
+            "Φορέας Έργου ή Δραστηριότητας": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ(ΕΔΡΑΣ) - ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+            "Ανάθεση σε": "ΣΤΥΛΙΑΝΟΣ ΣΠΑΝΟΣ"
+        },
+        "panel-application_authority": {
+            "Διεύθυνση": "Δ/νση Περιβάλλοντος & Χωρικού Σχεδιασμού Πελοποννήσου",
+            "Τμήμα": "Τμήμα Περιβαλλοντικού & Χωρικού Σχεδιασμού Πελοποννήσου"
+        },
+        "panel-company_info": {
+            "Επωνυμία": "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ ΓΕΝΙΚΗ/ ΔΙΕΥΘΥΝΣΗ ΑΝΑΠΤΥΞΙΑΚΟΥ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΚΑΙ ΥΠΟΔΟΜΩΝ - ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ",
+            "ΑΦΜ": "998037420",
+            "ΔΟΥ": "ΤΡΙΠΟΛΗΣ",
+            "Διεύθυνση": "ΝΑΥΠΛΙΟΥ 57",
+            "Περιοχή": "ΤΡΙΠΟΛΗ",
+            "Fax": "",
+            "Email": "dteperpel@gmail.com",
+            "Υπεύθυνος επικοινωνίας": "ΓΕΩΡΓΙΟΣ ΜΟΥΤΑΦΙΔΗΣ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2710238559",
+            "Email υπεύθυνου επικοινωνίας": "dteperpel@gmail.com",
+            "Θέση υπεύθυνου επικοινωνίας": "ΑΝΑΠΛΗΡΩΤΗΣ ΠΡΟΪΣΤΑΜΕΝΟΣ Δ.Τ.Ε (ΕΔΡΑΣ)"
+        },
+        "panel-studier_info": {
+            "Επωνυμία": "Δ.ΑΡΓΥΡΟΠΟΥΛΟΣ & ΣΥΝΕΡΓΑΤΕΣ",
+            "Διεύθυνση": "Τήνου 2, Τ.Κ. 15562",
+            "Περιοχή": "ΧΟΛΑΡΓΟΣ",
+            "Fax": "",
+            "Email": "dargy@otenet.gr",
+            "Υπεύθυνος επικοινωνίας": "Δ. Αργυρόπουλος",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2106540188",
+            "Email υπεύθυνου επικοινωνίας": "dargy@otenet.gr",
+            "Θέση υπεύθυνου επικοινωνίας": ""
+        },
+        "panel-project_info": {
+            "Κατάταξη Έργου / Δραστηριότητας - Κύρια": "Ομάδα 1η: Έργα χερσαίων και εναέριων μεταφορών / Εκσυγχρονισμός, επέκταση, βελτίωση ή τροποποίηση υφιστάμενων έργων οδοποιίας",
+            "text_0": "Ομάδα 1η: Έργα χερσαίων και εναέριων μεταφορών / Εκσυγχρονισμός, επέκταση, βελτίωση ή τροποποίηση υφιστάμενων έργων οδοποιίας",
+            "Κατάταξη Έργου / Δραστηριότητας - Δευτερεύουσα": "",
+            "Κατηγορία / Υποκατηγορία Έργου ή Δραστηριότητας": "A2",
+            "Α/Α (1-226)": ""
+        },
+        "panel-location": {
+            "coordinates": {
+                "type": "linear",
+                "points": [
+                    {
+                        "type": "Αρχή",
+                        "EGSA87": {
+                            "x": "425097.47",
+                            "y": "4166470.38"
+                        },
+                        "WGS84": {
+                            "φ": "37.6449338",
+                            "λ": "23.1526546"
+                        }
+                    },
+                    {
+                        "type": "Μέση",
+                        "EGSA87": {
+                            "x": "424320.22",
+                            "y": "4165562.37"
+                        },
+                        "WGS84": {
+                            "φ": "37.6366869",
+                            "λ": "23.1439391"
+                        }
+                    },
+                    {
+                        "type": "Τέλος",
+                        "EGSA87": {
+                            "x": "423568.86",
+                            "y": "4165160.82"
+                        },
+                        "WGS84": {
+                            "φ": "37.6330059",
+                            "λ": "23.135466"
+                        }
+                    }
+                ],
+                "raw": "37.6449338,23.1526546-37.6366869,23.1439391-37.6330059,23.135466"
+            },
+            "location_name": "Τοπική Ενότητα Αρχαίας Επιδαύρου",
+            "administrative_hierarchies": [
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΟΡΙΝΘΙΑΣ",
+                    "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΣΑΡΩΝΙΚΟΥ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΟΡΙΝΘΙΑΣ",
+                    "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΣΑΡΩΝΙΚΟΥ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΟΡΙΝΘΙΑΣ",
+                    "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΣΟΛΥΓΕΙΑΣ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΓΟΛΙΔΑΣ",
+                    "ΔΗΜΟΣ ΕΠΙΔΑΥΡΟΥ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΕΠΙΔΑΥΡΟΥ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΓΟΛΙΔΑΣ",
+                    "ΔΗΜΟΣ ΕΠΙΔΑΥΡΟΥ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΕΠΙΔΑΥΡΟΥ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΓΟΛΙΔΑΣ",
+                    "ΔΗΜΟΣ ΕΠΙΔΑΥΡΟΥ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΕΠΙΔΑΥΡΟΥ"
+                ],
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΓΟΛΙΔΑΣ",
+                    "ΔΗΜΟΣ ΕΠΙΔΑΥΡΟΥ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΕΠΙΔΑΥΡΟΥ"
+                ]
+            ]
+        },
+        "panel-files": {
+            "Έντυπο Υ": {
+                "text": "ΕΝΤΥΠΟ Y---.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ21MQUFWbVdWckdhS1JQUExMMk5KYmVuOEorWUFUYStjSW5qdnlMK1dTNlZwSUJoWVVoTGNCVnk4M1hIUDFneXczc05kaWkwTk5hTzE3MmR2SWRYWEM,"
+                ]
+            },
+            "Φάκελος ΠΠΠΑ": {
+                "items": [
+                    "ΠΠΠΑ ΔΜ 291121_signed---.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ21MQUFWbVdWckdhS1JQUExMMk5KYmVuOEorWUFUYStjSW5qdnlMK1dTNmE4MlVkNWt3TklYc2ZKUnMyNE1HQndCKzZkbDVJK25oKy9Sc3FqSkowU3E,"
+                ]
+            },
+            "Σχέδια": {
+                "items": [
+                    "7-1 ΜΗΚΟΤΟΜΗ ΤΜΗΜΑΤΟΣ 1_signed---.pdf",
+                    "7-2 ΜΗΚΟΤΟΜΗ ΤΜΗΜΑΤΟΣ 2_signed---.pdf",
+                    "7-3 ΜΗΚΟΤΟΜΗ ΤΜΗΜΑΤΟΣ 3_signed---.pdf",
+                    "7-4 ΜΗΚΟΤΟΜΗ ΤΜΗΜΑΤΟΣ 4_signed---.pdf",
+                    "7-5 ΜΗΚΟΤΟΜΗ ΤΜΗΜΑΤΟΣ 5_signed---.pdf",
+                    "7-6 ΜΗΚΟΤΟΜΗ ΤΜΗΜΑΤΟΣ 6_signed---.pdf",
+                    "7-7 ΜΗΚΟΤΟΜΗ ΤΜΗΜΑΤΟΣ 7_signed---.pdf",
+                    "8 ΤΥΠΙΚΕΣ ΔΙΑΤΟΜΕΣ_signed---.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUlOa0p5RjFmMlc4QmVxcktpQUlFZTcyYmhkRTJFTFlGaE94OXRJQ1RTTWo,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUk0bTB1M1FOUmNodnBDNHRjUmZYMkpNSko0Sm1JVkh1TEZXTGo4RmRUWW8,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcVBsdkZ0VWZrMnZjajJqQTJTc0FpRWVIVnIwd2cyRmNpbnovaGJxTU5HSjI,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcU1BV3UyY3dRQmFFUCt4STdlUFNHQXhUaWxWbVFoQ201MzFzV04xZDc2aTk,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcU9hWWwyd1JiUjRVSU5YOURtdnpBQzIxY0dVMWVuRkZwVmdaTFgzSE1VT3c,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUlBaml4NnFWZUphRTZkZU9EdXJhVndiVFpwMzZlaUlkeW9Cb0Y0dndCRXg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUZBcWk0b1V2RzNiZ040cTNEZERWVTZVZ0gxN0Zha0pVMUY3dW9ybVVMNFQ,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcURZZVBBL1c1QlFlT3l4Z2V4Vis0K25nZmtIL25Wbkd5UCtBOHBnUEQrc2c,"
+                ]
+            },
+            "Φωτογραφίες": [],
+            "Έγγραφα, Εγκρίσεις, Άδειες κλπ": {
+                "items": [
+                    "6 ΕΦΟΡΕΙΑ ΑΡΧΑΙΟΤΗΤΩΝ ΑΡΓΟΛΙΔΑΣ.pdf",
+                    "5 ΕΦΟΡΕΙΑ ΑΡΧΑΙΟΤΗΤΩΝ ΚΟΡΝΘΙΑΣ.pdf",
+                    "2 ΔΗΜΟΣ ΕΠΙΔΑΥΡΟΥ.pdf",
+                    "4 ΑΣΤΥΝΟΜΙΚΗ ΔΙΕΥΘΥΝΣΗ ΑΡΓΟΛΙΔΑΣ.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ21MQUFWbVdWckdhS1JQUExMMk5KYmVuOEorWUFUYStjSW5qdnlMK1dTNmJJNHkzSGhnQnFIRDVqZlFVLzludDhueXZaVmhtK3haZFNPTkxmYlJWYTk,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ21MQUFWbVdWckdhS1JQUExMMk5KYmVuOEorWUFUYStjSW5qdnlMK1dTNlo5bDBWL1dTVFUvL0FIWjdyZW9FNnNBclZRUTkwbFczVzRrWWtrMEtVVGU,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ21MQUFWbVdWckdhS1JQUExMMk5KYmVuOEorWUFUYStjSW5qdnlMK1dTNlEyR1RlWXd5NzI5dEZYcWcwZi8vaTMzdzE5bklmcTNySlFodzdhY1B1QmI,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUthVThmaExJZFpYMXJBZEtyN2hoQk5LelNsVTVtdnhiMDNlUnVMQTFjMis,"
+                ]
+            },
+            "Χάρτες – Χωροθέτηση": {
+                "items": [
+                    "1 ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΣ_signed---.pdf",
+                    "2 ΠΕΡΙΟΧΗ ΜΕΛΕΤΗΣ_signed--.pdf",
+                    "4 ΓΕΩΛΟΓΙΚΟΣ ΧΑΡΤΗΣ_signed---.pdf",
+                    "3 ΧΑΡΤΗΣ ΕΝΑΛΛΑΚΤΙΚΩΝ ΛΥΣΕΩΝ_signed---.pdf",
+                    "5-1 ΧΡΗΣΕΙΣ ΓΗΣ ΤΜΗΜΑΤΑ 1_2_signed---.pdf",
+                    "5-2 ΧΡΗΣΕΙΣ ΓΗΣ ΤΜΗΜΑΤΑ 3_4_signed---.pdf",
+                    "5-3 ΧΡΗΣΕΙΣ ΓΗΣ ΤΜΗΜΑΤΑ 5_6_7_signed---.pdf",
+                    "6-1 ΟΡΙΖΟΝΤΙΟΓΡΑΦΙΑ ΤΜΗΜΑΤΟΣ 1_signed---.pdf",
+                    "6-2 ΟΡΙΖΟΝΤΙΟΓΡΑΦΙΑ ΤΜΗΜΑΤΟΣ 2_signed---.pdf",
+                    "6-3 ΟΡΙΖΟΝΤΙΟΓΡΑΦΙΑ ΤΜΗΜΑΤΟΣ 3_signed---.pdf",
+                    "6-4A ΟΡΙΖΟΝΤΙΟΓΡΑΦΙΑ ΤΜΗΜΑΤΟΣ 4-ΠΑΡΑΛΛΑΓΗ_signed---.pdf",
+                    "6-4 ΟΡΙΖΟΝΤΙΟΓΡΑΦΙΑ ΤΜΗΜΑΤΟΣ 4_signed---.pdf",
+                    "6-5 ΟΡΙΖΟΝΤΙΟΓΡΑΦΙΑ ΤΜΗΜΑΤΟΣ 5_signed---.pdf",
+                    "6-6 ΟΡΙΖΟΝΤΙΟΓΡΑΦΙΑ ΤΜΗΜΑΤΟΣ 6_signed---.pdf",
+                    "6-7 ΟΡΙΖΟΝΤΙΟΓΡΑΦΙΑ ΤΜΗΜΑΤΟΣ 7_signed---.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUNyUGZxTTdCOWdzSnp1OTlsVlBCSmNUK2J6MTZaZDFsQWlLQTNMMzA4WVQ,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUJPanpXamFWYllNSDZNL2JVQnVSY25BK1A4RDBhTmp1NkVBZFdRM2grQlo,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUlYN01pTzE1d1JzU0tMZnRkdjZ0OWhZdkFaazRqWEdTNnFDMDI2RDhvRWI,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUJVT243elZDcUhicXJMSmczVmEzTDdST0ZkYUxMQ3dybnRHTWdHaFl1YVk,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUc1RUxqWit3MGplcGxWdTh5aWZLV0E3aklHYVV4UzlNSGJHakxZSEYxbUE,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUQ5T1JKTWtlZytQU29uMThuckRxZVkrYk1NT3VJSVk2c2N6a1ZtZ0ZJUy8,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUQ1ZThVTGJ4MU1uRUFvNzMvbTNxQUVsZVhsVFpyVE9rZmxnQTNVMlJHRG8,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUZWWWx5QWhSZkROK2tqUmczbjV6cjBWT2NCS3RFUGE4WDhrRWg3eGVzcmI,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUdTOFlzVCtaNmQzeW91ekZJcnAyU2ZySjFyTStDSTR3OUVOcExlb2R6a0c,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUQ2K05YWXRsdGhzZUZYLzFRYUdIem1lcDVqb2xTRnNyNFduSXFxY1I2VFY,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcURseTBqTWtuWSt0dDYxNURxQlQ3RnMvYWZ5YjhkbTVkb256VG1Gb2MrNVM,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcU9kZ1Yxd3dQZ3hlYlVlcHU5dGZSbCtKYnNaNW5lamhyTW1MTzZxSmdRd0o,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcURQRWhmZ3FKQmVtVGRlTERlZy9XRGgwUFhrZDdNT1d1RVp2eHdaVEN4N1A,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcURBQ015RzQ3Z1p6UHlJZm1oRWI1RWkwbFg4QlRWcTQwUFJIRGZkRzhMOFU,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzJkeE1ha291QVQ4ZHRjcGMrU01nWlQ5aGdTYS8wMW5tdHBCMTNjSjNkcUlOcTV6TlhETll2SVFLYmozR2d0M3g3c3Q1RDlrbjc1ZU44Z1E1K1B0RlQ,"
+                ]
+            }
+        },
+        "panel-opinions": {
+            "Γνωμοδοτήσεις": {
+                "items": [
+                    {
+                        "Υπηρεσία": "Διεύθυνση Συντονισμού και Επιθεώρησης Δασών Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "ΜΠΕ_ΠΠΠΑ_ΕΠΙΔΑΥΡΟΣ_ΣΟΦΙΚΟ (ΑΑ) (1).pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Αρχαιοτήτων Αργολίδας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "ΠΠΠΑ Κατασκευή ΕΟ Κόρινθος-Σοφικό-Αρχάια Επίδαυρος(3).pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Αρχαιοτήτων Κορινθίας",
+                        "Αξιολόγηση": "Αναμονή γνωμοδότησης",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Υπηρεσία Νεωτέρων Μνημείων και Τεχνικών Έργων Δυτικής Ελλάδας, Πελοποννήσου και Νοτίου Ιονίου - ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ ΑΝΑΣΤΗΛΩΣΗΣ, ΜΟΥΣΕΙΩΝ & ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ - ΥΠΠΟ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "Εξ 82601 21022023.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "ΔΑΣΑΡΧΕΙΟ ΚΟΡΙΝΘΟΥ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "ΓΝΩΜΟΔΟΤΗΣΗ (ΑΑ).pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Δασών Κορινθίας - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "124753 2023 ΓΝΜ ΠΠΠΑ ΟΔΟΠΟΙΙΑ ΑΛΜΥΡΗ  ΕΠΙΔΑΥΡΟΣ ψ.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Δασών Αργολίδας - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "Γνωμοδότηση επί  ΠΠΠΑ Κόρινθος  Αρχαία Επίδαυρος (ΑΑ).pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    }
+                ],
+                "links": [
+                    "",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1Bza2IwSHZMS2NyYkg2L2wxMmVCZFFlSms2M3JNcmVNNTZUVHNmb1FwcDJRZVVFMEs4TExidmlSL281QW5RSjMrT0VVaEg1Q29yZm13T2l1djFYS2M,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaTRRanQ1M1ZMa0FZOXZ3c0UyODcvSXdQcGZrWllhQ2J1cUtuNFFWSVJYMzhIN3RBZ1VJWld4ZDdlSWdCWGdjVlhRVmtqeGtyZG8wQ3lYS2U2Z1VyVys,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanNzKzRBaUoyUytLNHI1VTFXYVgwQkZsSjI3UElVeXVXa0ZxeWdQNUE4d1NoZ0RCZzVqZWM0b1B2VjRQazI0NlcwemY0MmpFNE1xYjNlS0FYZ1IvZVI,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaDh3V0t2WFpsS0tERStaR0kxL2VUZEtZbWNZRUVjYTMvRjh2TEdIOFd3K0dFWlVlWk50cElnSnNucWQwcFhaaFNyWXQ4N1NtbzBlamg0Q2tINjNoOFA,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPanNzKzRBaUoyUytLNHI1VTFXYVgwQkZsSjI3UElVeXVXa0ZxeWdQNUE4d2MrOXdxRE92TnlxbUlXOHVYVmJGZ0JhbzBIN3hsc3hWaDk1d296d0ZtbE0,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaUdFOTZ6RjVvQ095WlF6VWQzZmlqeW5YUmM2QlR0dnR2TU80KzNhUFJoL055Ky9jL0tpMXk1SlRYUDRrTkxwT3ZRTm12QUpxdUFtaFJFZ0xyd2xwdjI,"
+                ]
+            },
+            "Έντυπο Δ2": {
+                "text": "2023-10-03 Έντυπο Δ2 κενό.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaGVFMFl5cDIyb2p4ck1sSkhZNGNKbmw5eXBHVnZFWHhIVjd5UTNmMEpSL0VkK1l4ekNsZUtTQjI2bFFDbXlDdnhKOFA4OWw2L3JMU3VPalluL2xQUzM,"
+                ]
+            }
+        },
+        "panel-evaluation": {
+            "Αξιολόγηση απόφασης ΠΠΠΑ": "Θετική",
+            "Αρχείο ΠΠΠΑ": {
+                "text": "2023-10-04 ΠΠΠΑ Κόρινθος - Σοφικό.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaGZBNFFDejgyOEtpZmFTbGZtVk5FaVdIRnp0Vzd6a01BTkpQNnhXZTNUSTIrbmR2RzJ2RXpYRGNpRExYQUxtZ3VKZWpVUjdWbjlCcDUxS05FcndrcHk,"
+                ]
+            }
+        }
+    },
+    "2106547025_w6_13": {
+        "panel-application_info": {
+            "Τίτλος Έργου ή Δραστηριότητας": "ΑΝΑΔΕΙΞΗ, ΠΡΟΣΤΑΣΙΑ ΚΑΙ ΑΝΑΒΑΘΜΙΣΗ ΛΟΦΟΥ  ΠΡΟΦΗΤΗ ΗΛΙΑ",
+            "Σύντομος Τίτλος Έργου ή Δραστηριότητας": "ΑΝΑΔΕΙΞΗ, ΠΡΟΣΤΑΣΙΑ ΚΑΙ ΑΝΑΒΑΘΜΙΣΗ ΛΟΦΟΥ ΠΡΟΦΗΤΗ ΗΛΙΑ",
+            "Αριθμός πρωτοκόλλου υποβολής": "114974/08-06-2021",
+            "Κατάσταση αίτησης": [
+                "Υποβολή",
+                "Έλεγχος πληρότητας",
+                "Γνωμοδοτήσεις",
+                "Τελική αξιολόγηση",
+                "Ολοκλήρωση"
+            ],
+            "Ημερομηνία υποβολής": "2021-06-03 15:43:05",
+            "ΠΕΤ": "2106547025",
+            "Φορέας Έργου ή Δραστηριότητας": "ΔΗΜΟΣ ΤΡΙΚΚΑΙΩΝ",
+            "Ανάθεση σε": "ΑΘΗΝΑ ΔΟΞΑΡΙΩΤΗ"
+        },
+        "panel-application_authority": {
+            "Διεύθυνση": "Δ/νση Περιβάλλοντος & Χωρικού Σχεδιασμού Θεσσαλίας",
+            "Τμήμα": "Τμήμα Περιβαλλοντικού & Χωρικού Σχεδιασμού Θεσσαλίας"
+        },
+        "panel-company_info": {
+            "Επωνυμία": "ΔΗΜΟΣ ΤΡΙΚΚΑΙΩΝ",
+            "ΑΦΜ": "997830264",
+            "ΔΟΥ": "ΤΡΙΚΑΛΩΝ",
+            "Διεύθυνση": "ΑΣΚΛΗΠΙΟΥ 18",
+            "Περιοχή": "ΤΡΙΚΑΛΑ",
+            "Fax": "",
+            "Email": "mayor@trikalacity.gr",
+            "Υπεύθυνος επικοινωνίας": "ΣΑΡΓΙΩΤΗ ΘΕΟΔΩΡΑ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2431063230",
+            "Email υπεύθυνου επικοινωνίας": "tsar@trikalacity.gr",
+            "Θέση υπεύθυνου επικοινωνίας": "ΑΝ. ΠΡΟΙΣΤΑΜΕΝΗ Δ/ΝΣΗΣ ΤΕΧΝΙΚΗΣ ΥΠΗΡΕΣΙΑΣ ΔΗΜΟΥ ΤΡΙΚΚΑΙΩΝ"
+        },
+        "panel-studier_info": {
+            "Επωνυμία": "ΑΙΚΑΤΕΡΙΝΗ ΠΑΠΑΔΟΥΛΗ",
+            "Διεύθυνση": "ΑΣΚΛΗΠΙΟΥ 18",
+            "Περιοχή": "ΤΡΙΚΑΛΑ",
+            "Fax": "",
+            "Email": "kpapadouli@trikalacity.gr",
+            "Υπεύθυνος επικοινωνίας": "ΚΑΝΕΛΙΑ ΔΕΡΜΑΝΗ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2431063240",
+            "Email υπεύθυνου επικοινωνίας": "kdermani@trikalacity.gr",
+            "Θέση υπεύθυνου επικοινωνίας": "ΥΠΑΛΛΗΛΟΣ"
+        },
+        "panel-project_info": {
+            "Κατάταξη Έργου / Δραστηριότητας - Κύρια": "Ομάδα 6η: Τουριστικές εγκαταστάσεις και έργα αστικής ανάπτυξης, κτιριακού τομέα, αθλητισμού και αναψυχής / Πάσης φύσεως θεµατικά πάρκα (συµπεριλαµβάνονται τα ψυχαγωγικά θεµατικά πάρκα της ΚΥΑ 16793/2009, οι ζωολογικοί κήποι, κ.λπ.)",
+            "text_0": "Ομάδα 6η: Τουριστικές εγκαταστάσεις και έργα αστικής ανάπτυξης, κτιριακού τομέα, αθλητισμού και αναψυχής / Πάσης φύσεως θεµατικά πάρκα (συµπεριλαµβάνονται τα ψυχαγωγικά θεµατικά πάρκα της ΚΥΑ 16793/2009, οι ζωολογικοί κήποι, κ.λπ.)",
+            "Κατάταξη Έργου / Δραστηριότητας - Δευτερεύουσα": "",
+            "Κατηγορία / Υποκατηγορία Έργου ή Δραστηριότητας": "A2",
+            "Α/Α (1-226)": ""
+        },
+        "panel-location": {
+            "coordinates": {
+                "type": "single",
+                "points": [
+                    {
+                        "type": "Αρχή",
+                        "EGSA87": {
+                            "x": "307800",
+                            "y": "4381350"
+                        },
+                        "WGS84": {
+                            "φ": "39.562943",
+                            "λ": "21.7644146"
+                        }
+                    }
+                ],
+                "raw": "39.562943,21.7644146"
+            },
+            "location_name": "ΛΟΦΟΣ ΠΡΟΦΗΤΗ ΗΛΙΑ",
+            "administrative_hierarchies": [
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΤΡΙΚΑΛΩΝ",
+                    "ΔΗΜΟΣ ΤΡΙΚΚΑΙΩΝ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΤΡΙΚΚΑΙΩΝ"
+                ]
+            ]
+        },
+        "panel-files": {
+            "Έντυπο Υ": {
+                "text": "ENTYPO_Y-singed.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1ZnVStJOENHZjYyT0lrTi9UazM1NHN1KzIyOUtGMWN2VFBac1p3RCtwempKdXBEVEh6YktoMUt1ZG1hNGU5NnpiS0d2L3VzZnNQbkxkOGVFQWRnOTY,"
+                ]
+            },
+            "Φάκελος ΠΠΠΑ": {
+                "items": [
+                    "PPPA-singed.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1ZnVStJOENHZjYyT0lrTi9UazM1NHN1KzIyOUtGMWN2VFBac1p3RCtwemt3VWdISHpQcFNSTWgxR05uKzV2b3Y4NDd1WnM5emV4UWlDNGE3TlM5cmU,"
+                ]
+            },
+            "Σχέδια": {
+                "items": [
+                    "11.6_1000-singed.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1ZnVStJOENHZjYyT0lrTi9UazM1NHN1KzIyOUtGMWN2VFBac1p3RCtwemhHakhKb0ZVUWxSWjU5ZVFSYjRVRnc4Y1grVGh2S0xtcHgxcTF2ZHN2aEI,"
+                ]
+            },
+            "Φωτογραφίες": {
+                "items": [
+                    "FOTOGRAFIES-singed.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1ZnVStJOENHZjYyT0lrTi9UazM1NHN1KzIyOUtGMWN2VFBac1p3RCtwenBHMDRFdDRlQ3hEYUM0OXllVXR0WkhZcVpiRkh0TmYvQkNUWUdjMTQ2b1A,"
+                ]
+            },
+            "Έγγραφα, Εγκρίσεις, Άδειες κλπ": {
+                "items": [
+                    "EGKRISEIS-signed.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1ZnVStJOENHZjYyT0lrTi9UazM1NHN1KzIyOUtGMWN2VFBac1p3RCtwenYvL0QwK2lZVE0vM3ZXMjR0UmJKb2lIUnlGMHVONTc4eFliUnhFRVNjWFA,"
+                ]
+            },
+            "Χάρτες – Χωροθέτηση": {
+                "items": [
+                    "11.1_50000-singed.pdf",
+                    "11.2_25000-singed.pdf",
+                    "11.3_1000-singed.pdf",
+                    "11.4-singed.pdf",
+                    "11.5.a-singed.pdf",
+                    "11.5.b-singed.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1ZnVStJOENHZjYyT0lrTi9UazM1NHN1KzIyOUtGMWN2VFBac1p3RCtwenVhU0VRY09peldGSEg1WDFleUYzVndYeGNUQUNaUW4wdXdZeGFXeSsyTXU,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1ZnVStJOENHZjYyT0lrTi9UazM1NHN1KzIyOUtGMWN2VFBac1p3RCtwemdhQmtyMzAyOW9JZzd4aGdxM0pSdHdWMm1tbVZkTWhkbFRnWmxJeVYxcVo,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1ZnVStJOENHZjYyT0lrTi9UazM1NHN1KzIyOUtGMWN2VFBac1p3RCtwem5HU1FZejNmSWJjVkdFY1R1dkVzSTFtampSejFKNXdwL3FPQ1B4eHJLbG0,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1ZnVStJOENHZjYyT0lrTi9UazM1NHN1KzIyOUtGMWN2VFBac1p3RCtwenN5NEhLdXVWZzNyRlh4RFI2QXcvbmIzTmdVOEpKMW5GV21GSlpSalVscHQ,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1ZnVStJOENHZjYyT0lrTi9UazM1NHN1KzIyOUtGMWN2VFBac1p3RCtwenRhMGQ2Ry8rOTlNZjNwd28reGEvekRudEY4cXhRNmg2UklBcFliNjJEbFU,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1ZnVStJOENHZjYyT0lrTi9UazM1NHN1KzIyOUtGMWN2VFBac1p3RCtwemw5MjVudzdudXp5N1JzcHFFUXZoTUJ6M3dBbzVmRFpUbWNTQkJRWlZ6UEc,"
+                ]
+            }
+        },
+        "panel-opinions": {
+            "Γνωμοδοτήσεις": {},
+            "Έντυπο Δ2": {
+                "text": "D2_ENTYPO_EPOPTEIAS_GNWMODOTHSEWN_PPPA-1.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaGxhV2dZbEw5bUhnY3I2SHEwN2gwRUM0WDB0TzFZWGovckVjd1VadUorNWdOeUdlc21LOSs0VHpacTBzNEh4aXo5cTl1NkJWZFVnS3JIOGlxVmtHV3Y,"
+                ]
+            }
+        },
+        "panel-evaluation": {
+            "Αξιολόγηση απόφασης ΠΠΠΑ": "Θετική",
+            "Αρχείο ΠΠΠΑ": {
+                "text": "Αναβάθμιση Λόφου Πρ. Ηλία (α.π., ΑΔΑ & ιριδα).pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaGxhV2dZbEw5bUhnY3I2SHEwN2gwRUM0WDB0TzFZWGovckVjd1VadUorNXI5bnJYODFzVWRWalVrdTM5aWVEZjNiOTNXS2JEV3NQRGhMWHVaVSs4R3E,"
+                ]
+            }
+        }
+    },
+    "2004288623_w6_11": {
+        "panel-application_info": {
+            "Τίτλος Έργου ή Δραστηριότητας": "ΛΙΜΕΝΙΚΗ ΕΓΚΑΤΑΣΤΑΣΗ ΕΞΥΠΗΡΕΤΗΣΗΣ ΣΚΑΦΩΝ ΣΤΗ ΘΕΣΗ ΒΑΡΕΙΑ ΝΑΥΠΑΚΤΟΥ",
+            "Σύντομος Τίτλος Έργου ή Δραστηριότητας": "ΛΙΜΕΝΑΣ ΑΛΙΕΥΤΙΚΩΝ ΣΚΑΦΩΝ ΣΤΗ ΘΕΣΗ ΒΑΡΕΙΑ ΝΑΥΠΑΚΤΟΥ",
+            "Αριθμός πρωτοκόλλου υποβολής": "96302/17.06.2020",
+            "Κατάσταση αίτησης": [
+                "Υποβολή",
+                "Έλεγχος πληρότητας",
+                "Γνωμοδοτήσεις",
+                "Τελική αξιολόγηση",
+                "Ολοκλήρωση"
+            ],
+            "Ημερομηνία υποβολής": "2020-07-15 12:23:52",
+            "ΠΕΤ": "2004288623",
+            "Φορέας Έργου ή Δραστηριότητας": "Δημοτικο Λιμενικό Ταμείο Ναυπακτου",
+            "Ανάθεση σε": "ΜΑΡΙΑΝΝΑ ΝΙΝΙΡΑΚΗ-ΜΑΡΙΝΟΥ"
+        },
+        "panel-application_authority": {
+            "Διεύθυνση": "Δ/νση Περιβάλλοντος & Χωρικού Σχεδιασμού Δυτικής Ελλάδας",
+            "Τμήμα": "Τμήμα Περιβαλλοντικού & Χωρικού Σχεδιασμού Δυτικής Ελλάδας"
+        },
+        "panel-company_info": {
+            "Επωνυμία": "ΔΗΜΟΤΙΚΟ ΛΙΜΕΝΙΚΟ ΤΑΜΕΙΟ ΝΑΥΠΑΚΤΟΥ",
+            "ΑΦΜ": "800238352",
+            "ΔΟΥ": "ΜΕΣΟΛΟΓΓΙΟΥ",
+            "Διεύθυνση": "ΠΑΡΟΔΟΣ Α ΚΟΖΩΝΗ",
+            "Περιοχή": "ΝΑΥΠΑΚΤΟΣ",
+            "Fax": "2634038546",
+            "Email": "limennafpakt@yahoo.gr",
+            "Υπεύθυνος επικοινωνίας": "ΜΠΙΣΜΠΙΚΗ ΑΓΓΕΛΙΚΗ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2634038546",
+            "Email υπεύθυνου επικοινωνίας": "aggelikhlag@gmail.com",
+            "Θέση υπεύθυνου επικοινωνίας": "ΠΡΟΙΣΤΑΜΕΝΗ ΔΙΟΙΚΗΤΙΚΩΝ & ΟΙΚΟΝΟΜΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΔΛΤΝ"
+        },
+        "panel-studier_info": {
+            "Επωνυμία": "ΤΡΙΤΩΝ ΣΥΜΒΟΥΛΟΙ ΜΗΧΑΝΙΚΟΙ Α.Ε.",
+            "Διεύθυνση": "Λ.ΚΗΦΙΣΙΑΣ 326 & ΠΟΤΑΜΟΥ ΚΑΛΑΜΑ 32",
+            "Περιοχή": "ΧΑΛΑΝΔΡΙ",
+            "Fax": "2107243358",
+            "Email": "triton@tritonsa.gr",
+            "Υπεύθυνος επικοινωνίας": "ΡΟΥΧΩΤΑΣ  ΕΛΕΥΘΕΡΙΟΣ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2107295761",
+            "Email υπεύθυνου επικοινωνίας": "triton@tritonsa.gr",
+            "Θέση υπεύθυνου επικοινωνίας": "ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ"
+        },
+        "panel-project_info": {
+            "Κατάταξη Έργου / Δραστηριότητας - Κύρια": "Ομάδα 3η: Λιμενικά έργα / Λιµένες εξυπηρέτησης αλιευτικών σκάφων ή µικτής χρήσης µε τουριστικά σκάφη, εξυπηρέτησης ναυταθλητικών δραστηριοτήτων, ιχθυόσκαλες και συναφείς εγκαταστάσεις",
+            "text_0": "Ομάδα 3η: Λιμενικά έργα / Λιµένες εξυπηρέτησης αλιευτικών σκάφων ή µικτής χρήσης µε τουριστικά σκάφη, εξυπηρέτησης ναυταθλητικών δραστηριοτήτων, ιχθυόσκαλες και συναφείς εγκαταστάσεις",
+            "Κατάταξη Έργου / Δραστηριότητας - Δευτερεύουσα": "",
+            "Κατηγορία / Υποκατηγορία Έργου ή Δραστηριότητας": "A2",
+            "Α/Α (1-226)": "4"
+        },
+        "panel-location": {
+            "coordinates": {
+                "type": "single",
+                "points": [
+                    {
+                        "type": "Αρχή",
+                        "EGSA87": {
+                            "x": "309365.38",
+                            "y": "4250207.85"
+                        },
+                        "WGS84": {
+                            "φ": "38.382397",
+                            "λ": "21.81916"
+                        }
+                    }
+                ],
+                "raw": "38.382397,21.81916"
+            },
+            "location_name": "ΒΑΡΕΙΑ ΝΑΥΠΑΚΤΟΥ",
+            "administrative_hierarchies": [
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
+                    "ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΝΑΥΠΑΚΤΟΥ"
+                ]
+            ]
+        },
+        "panel-files": {
+            "Έντυπο Υ": {
+                "text": "4059-Y-7-R1_signed (ΜΕ ΨΗΦΙΑΚΗ ΥΠΟΓΡΑΦΗ).pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R3M1U3dFeGhwb0RScGFWV2tQamVSODhRVWcrR2hkU0x4Nm9IRUxneXF4a2k,"
+                ]
+            },
+            "Φάκελος ΠΠΠΑ": {
+                "items": [
+                    "4059A-PPPA-R1_signed_signed (ΜΕ ΨΗΦΙΑΚΕΣ ΥΠΟΓΡΑΦΕΣ).pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R3U3enhCaDRkTHZqSkVzT0xUbll3eEc3VExIK0JLMDJMZEpXTWRZTnhNdGk,"
+                ]
+            },
+            "Σχέδια": {
+                "items": [
+                    "4059A-ΠΠΠΑ-02-R1_Signed_signed.pdf",
+                    "4059A-ΠΠΠΑ-01-R1_Signed_signed.pdf",
+                    "4059A-ΠΠΠΑ-03-R3_Signed_signed.pdf",
+                    "4059A-ΠΠΠΑ-04-R2_Signed_signed.pdf",
+                    "4059A-ΠΠΠΑ-05A-R1_Signed_signed.pdf",
+                    "4059A-ΠΠΠΑ-05B-R1_Signed_signed.pdf",
+                    "4059A-ΠΠΠΑ-06-R1_Signed_signed.pdf",
+                    "4059A-ΠΠΠΑ-07-R0_Signed_signed.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R2c1aTJBdUhCelVjVCtvSXo4eExrWEdpV1V1d0NSUjBPS3RzQXpJRmRBQkk,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R2lrZEJCTlkvYWZXdnFwODRQZnBFdDFUcHVwWGFkNFhWUXVyRDJJYmdEQ1Q,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R3RyRnE2K3B3eEY1eVJXRWVMVzRyN2NTMVRPNmErVVFtSHpCL0wra0draWw,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R29DZ1lMSFA1azk2YVZqSy9NTVpCMlNGVm5kNVVwZVcxTTlQZDU2cnI2SzM,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R2hQR3Q4QUIvR3BZZTdRNjRoWWFqbytDYnRIZVdBZG02WUJiby96VGl1Zzg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R29rUk5MYkpZbm42YVRnZERLekFhTndWaTFwT2s4NTFmSkVsUDZWZU5ub2w,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R2dzMGhlZzAvWTFPd09lRUI2SjdkNi9USUxWY0NPd3IrY3h1M255a3Nsa3E,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R2xUQVQ4SUVqN2tZcmFVSTRiZGZLNTl4dVU3Y2MrclN5QXIvRFVjeVIxZFQ,"
+                ]
+            },
+            "Φωτογραφίες": [],
+            "Έγγραφα, Εγκρίσεις, Άδειες κλπ": {
+                "items": [
+                    "1.a-Images.pdf",
+                    "2. 2015-2019 σκάφη_signed.pdf",
+                    "3. ΦΕΚ147-B-1962.pdf",
+                    "4. ΦΕΚ1354-Δ-2003.pdf",
+                    "5. ΥΠΕΥΘΥΝΗ ΔΗΛΩΣΗ ΡΟΥΧΩΤΑΣ_Signed.pdf",
+                    "6. ΠΕΡΙΒΑΛΛΟΝΤΙΚΟ_ΠΤΥΧΙΟ_ΤΡΙΤΩΝ ΑΕ.pdf",
+                    "ΒΕΒΑΙΩΣΗ ΔΗΜΟΤΙΚΟΥ ΑΚΙΝΗΤΟΥ ΒΚ286α15062020.pdf",
+                    "53_ΑΠΟΦΑΣΗ  09-4-2020.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R3FMUkxqL1BCeUhaTWI2cnRtRzVTWUFuMjJTTDYzVHJKZEpJRVNXTE93SHo,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R20zU0dlWTM2UHNTSFYzVWo2bW4xWW5QQ3lrN1NnQnAzYWdGZFkvV0M0SWw,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R3ZMa1ByWnZScjhjUXkzaitNUURhcU9Vb3BkWFhoVk42ODFYaVF0c2drVGg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R2tJNk1nM3diY2NpcmwyWi80d0tMbE5JZUNXY3BxWXN2WmhTa0luZTVoeTA,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R254RGR1ZEp6SEovaUMxcUQyYUNPb3lhNEliUC9heHY5b1pMYVNVOVVzNW4,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R3VYejBwNXBRcjE3Y0E3TDRIVVk5QmU5QjlhcWF5ank1K2FnYUJUdHdmTkU,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R2ozUWNSdTJpTzMwb1lyZFdtWW1RRit2SmlsSDJxQWdOeVpxL25Wck5Qc08,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3VhSlJZU2c2b1h3bENobVNQUmUwbmRMVzBERGlGaE91dVE0cGJxTWE3R3ZNYkRZWmlGak1BN08rRG5YSDlxSW5QRkgvL3dDSkQ0QVdJRW9abFloM0M,"
+                ]
+            },
+            "Χάρτες – Χωροθέτηση": []
+        },
+        "panel-copies": {
+            "Έγγραφο αιτήματος πρόσθετων αντιτύπων": {
+                "text": "Διαβιβαστικό πληρότητας.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaEFtU3B1c0xya1NJYlI0Vjd2d0h3Z1NNQy9VMG8yZ3dqOEQrbVllbCsvY1k1V1NOMmY4WFNpNEpING1raStKK3lSTzl2ZngvWk1lcllLYmdTdHQzMGk,"
+                ]
+            },
+            "Αριθμός Αντιτύπων": "17",
+            "Αριθμός πρωτοκόλλου αντιτύπων και ημερομηνία": "122039/23.07.2020"
+        },
+        "panel-opinions": {
+            "Γνωμοδοτήσεις": {
+                "items": [
+                    {
+                        "Υπηρεσία": "Διεύθυνση Υδάτων Δυτικής Ελλάδας - Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "2020 09 08_ΕΝΤΥΠΟ Δ8_ΠΠΠΑ Μαρινα Βαρεια Ναυπακτου.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Τεχνικών Έργων ΠΕ Αιτωλοακαρνανίας - Περιφέρεια Δυτικής Ελλάδας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "D8 Δνση Τεχνικών έργων ΠΕ Αιτνιας.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Αγροτικής Οικονομίας Δυτικής Ελλάδας - Περιφέρεια Δυτικής Ελλάδας",
+                        "Αξιολόγηση": "Αναμονή γνωμοδότησης",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Περιφερειακή Επιτροπή Χωροταξίας και Περιβάλλοντος (ΠΕΧΩΠ) ΠΕ Αιτωλοακαρνανίας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "Γνωμοδότηση ΠΕΧΩΠ.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Συντονισμού και Επιθεώρησης Δασών Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "Γνωμοδότηση Συντονισμού Δασών.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Αρχαιοτήτων Αιτωλοακαρνανίας και Λευκάδος",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "Δ9- Βαρειά.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Εναλίων Αρχαιοτήτων - Γενική Διεύθυνση Αρχαιοτήτων και Πολιτιστικής Κληρονομιάς - ΥΠΠΟΑ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "2.ΠΠΠΑ Βαρειά Ναυπάκ.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Παλαιοανθρωπολογίας-Σπηλαιολογίας Νότιας Ελλάδος - Γενική Διεύθυνση Αρχαιοτήτων και Πολιτιστικής Κληρονομιάς - ΥΠΠΟ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "D8_ENTYPO_ΓΝΩΜΟΔΟΤΗΣΗ ΕΠΣ ΛΙΜΕΝΑΣ Ναυπάκτου (1).pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Υπηρεσία Νεωτέρων Μνημείων και Τεχνικών Έργων Δυτικής Ελλάδας, Πελοποννήσου και Νοτίου Ιονίου - ΓΕΝΙΚΗ ΔΙΕΥΘΥΝΣΗ ΑΝΑΣΤΗΛΩΣΗΣ, ΜΟΥΣΕΙΩΝ & ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ - ΥΠΠΟ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "1.Εντυπο Δ8-5724-2020 Λιμένας BΑΡΕΙΑ ΝΑΥΠΑΚΤΟΥ.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "ΓΕΕΘΑ -Διεύθυνση Γ2- Υπουργείο Εθνικής Άμυνας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "ΠΡΟΣ ΑΠΟΚ.ΔΙΟΙΚ.ΠΕΛΝΣΟΥ-ΔΥΤ.ΕΛΛΑΔΑΣ & ΙΟΝΙΟΥ-ΕΝΤ.Δ9-ΛΙΜΕΝΑΣ ΒΑΡΕΙΑ,ΝΑΥΠΑΚΤΟΣ,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑ (1295) ΔΕΚ20.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Λιμενικών Υποδομών - Υπουργείο Μεταφορών & Υποδομών",
+                        "Αξιολόγηση": "Αναρμόδια για γνωμοδότηση",
+                        "Γνωμοδότηση": "1740_signed.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Λιμενικών και Κτιριακών Υποδομών - Υπουργείο Ναυτιλίας & Νησιωτικής Πολιτικής",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "3121.6_11775_2021_15_02_2021_signed.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Περιφερειακό Συμβούλιο Δυτικής Ελλάδας",
+                        "Αξιολόγηση": "Αναμονή γνωμοδότησης",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "ΔΑΣΑΡΧΕΙΟ ΝΑΥΠΑΚΤΟΥ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "ΔΝ2020-145495, ΓΝΩΜΟΔΟΤΗΣΗ ΕΠΙ ΦΑΚΕΛΟΥ ΠΠΠΑ.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Δασών Αιτωλοακαρνανίας - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Δασών Αιτωλοακαρνανίας - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "ΔΔ-2020-152909-ΓΝΩΜΟΔΟΤΗΣΗ ΕΠΙ ΜΠΕ.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    }
+                ],
+                "links": [
+                    "",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaWNLV3RIN2dLRWhTV0RDMUZKTXM3ODJzVVlxLzdKbjE5S2xqUVZ4OE1wSU94bGZaQmFiK25mcTNFaXMyUkJobHRNUWVpSzhCS3NzUllGYW0zL2NUcWY,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ0ZuMDR3ZUUvU0JyZHhSeXJlYzJsU3hJZ0hyaDVYVnVRdVcrcmp4WmlxYUFaRFIrRExBMTRILy9JOUplYzBnNzdYdVBDUjBCYlpJZ0JVR0V4b21VY1Y,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ1NYemU1bmhvWXVucTQxOTBObEgwaFlzKy8yVTR5c3FXa3lTbW56VHpmUk1RQTd3RTVwWUQ2NXZSbXdQLzNaalAxcmJSa3d1a1lmcWNLVTZORng3VGo,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzk3cFFocmZrQWhhWmQ3akJxcUc1anczdnBzck5xWUxRcHNCSnJGMjEra1M5VGNmMllHd3ZnR3owN3MyeHNmaExkNFR3QmViMUkrQkNpYXBkRkhPOHg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3lBbWpCbGc2YmVyUjY5cXQ5ODl5U2U2amdzY0xTOS9Tc3ByeUdJd3lxQlo4MWJpN3BEMkZscXZyOGQyZzNjSk81bGZiM0wwNWU2V2Vwdmoxb1gzMWE,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPai95ZHlWRHUzbnpocE9wUnVDT25qYjRUYUlPSmlnOHBRMWY5eFI5SDEvb1lYTEFVT1hqditlNzA4VjZCNXdGU3VqKzVWMGdTdGpMQ0s0OGpiS1BRMWs,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ05VVEtsd2tIbmtnWFRVMTd5TllhUmx1VXJ3YlNNak9lMnFUQi9YQTFFUzJidnM0R0lyc2JIYkpQRXZrMy92WlZ5WDdzSWJaRHV5bnh2UDhoVDlrWVo,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaFlTQ3pkdVBCY2V5T05CT3Nqa1gzcDlmWUh6eEpaSGk0MmV0ZkJ5RjhxQ3p5TnhzZUlldnZzZ3BJYldXeEFPWDIzazhiRnJMUDVIeWRMTHAxcWJXM3k,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaUVpZ015YXlvbXAxL2hWMUFCV1NaL0JnNG53aDlDbHRNM29hNjBFdGZUcXErTkt4cTE3VWNCVE9QL2xjUERHY0NVb0xtZDBBRUZQbVpjZGk3ZFk4YW4,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ2RCWmt3UEp2N1VVWHE2UnlnNkJYeGwraktoK0syYVlOSDNHWWxXZGRaenBjU25sVE1Ldnl0RSsvSjFnTllMQ0JDVCtOT1c5Q1o1Vkx5TzhnemhMYVI,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaUFQdC9MK0xodkhvakVQekVQbmZDcFBuajd2aExrdGNaNDR2UHpmMjlnbHNtOStLVEkvTUdNYXg2cXdNZ0srOHlESGoyTTRmVVA3RGNGamxvNldRbkw,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPai95ZHlWRHUzbnpocE9wUnVDT25qYjRUYUlPSmlnOHBRMWY5eFI5SDEvb1ViK3EwQkMvYlR3OG5Jd2NBZkxTN1hiYkdGbDFEQXc4V2NiOE9teWVXQng,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPai95ZHlWRHUzbnpocE9wUnVDT25qYjRUYUlPSmlnOHBRMWY5eFI5SDEvb1hmUlB0c0FzR25uZ2Q3cTZoSHNlZmpqdHdqL0xyaVBudGJsZzdvUGF2ZEQ,"
+                ]
+            },
+            "Έντυπο Δ2": {
+                "text": "Δ2 Εντυπο.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPajBpSW0vbDBWMkI5cExuc0pFL29zTWovdGRreXNuV1N5cEg4c0xDODNqVm9sYThJWXVkeWpxK0JkeHl2RFliMnRqaUZ1emM1d3F5cGxXUWZoZ0tmTGE,"
+                ]
+            }
+        },
+        "panel-evaluation": {
+            "Αξιολόγηση απόφασης ΠΠΠΑ": "Θετική",
+            "Αρχείο ΠΠΠΑ": {
+                "text": "ΠΠΠΑ.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPajBpSW0vbDBWMkI5cExuc0pFL29zTWovdGRreXNuV1N5cEg4c0xDODNqVnNLcjZaMUtSWGhOUEpEMnI1UEdnM2l4aFJzSEkwRFBYMTRkMlZmZDFyaGk,"
+                ]
+            }
+        }
+    },
+    "2007337021_w6_10": {
+        "panel-application_info": {
+            "Τίτλος Έργου ή Δραστηριότητας": "ΒΙΟΤΕΧΝΙΑ ΕΤΟΙΜΟΥ ΣΚΥΡΟΔΕΜΑΤΟΣ",
+            "Σύντομος Τίτλος Έργου ή Δραστηριότητας": "ΣΚΥΡΟΔΕΜΑ ΠΡΑΣΙΜΟΣ",
+            "Αριθμός πρωτοκόλλου υποβολής": "14768/13-04-2020",
+            "Κατάσταση αίτησης": [
+                "Υποβολή",
+                "Έλεγχος πληρότητας",
+                "Γνωμοδοτήσεις",
+                "Τελική αξιολόγηση",
+                "Ολοκλήρωση"
+            ],
+            "Ημερομηνία υποβολής": "2020-07-09 07:49:49",
+            "ΠΕΤ": "2007337021",
+            "Φορέας Έργου ή Δραστηριότητας": "ΠΡΑΣΙΝΟΣ",
+            "Ανάθεση σε": "ΠΑΝΑΓΙΩΤΗΣ ΠΑΠΙΟΠΟΥΛΟΣ"
+        },
+        "panel-application_authority": {
+            "Διεύθυνση": "Δ/νση Περιβάλλοντος & Χωρικού Σχεδιασμού Νοτίου Αιγαίου",
+            "Τμήμα": "Τμήμα Περιβαλλοντικού & Χωρικού Σχεδιασμού Νοτίου Αιγαίου"
+        },
+        "panel-company_info": {
+            "Επωνυμία": "ΑΝΤΩΝΙΟΣ ΠΡΑΣΙΝΟΣ",
+            "ΑΦΜ": "043566554",
+            "ΔΟΥ": "ΝΑΞΟΥ",
+            "Διεύθυνση": "ΚΑΦΟΝΗΣΙ",
+            "Περιοχή": "ΟΙΚΙΣΜΟΣ ΚΟΥΦΟΝΗΣΙΟΥ",
+            "Fax": "2285074123",
+            "Email": "kostasprasinos1002@gmail.com",
+            "Υπεύθυνος επικοινωνίας": "ΑΝΤΩΝΙΟΣ ΠΡΑΣΙΝΟΣ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "694337571",
+            "Email υπεύθυνου επικοινωνίας": "kostasprasinos1002@gmail.com",
+            "Θέση υπεύθυνου επικοινωνίας": "ΙΔΙΟΚΤΗΤΗΣ / ΔΙΕΥΘΥΝΤΗΣ"
+        },
+        "panel-studier_info": {
+            "Επωνυμία": "ΕΜΜΑΝΟΥΗΛ ΚΟΝΤΟΠΟΥΛΟΣ",
+            "Διεύθυνση": "ΑΓΙΟΥ ΠΟΛΥΚΑΡΠΟΥ",
+            "Περιοχή": "ΧΩΡΑ ΝΑΞΟΥ",
+            "Fax": "2285025707",
+            "Email": "makontop@otenet.gr",
+            "Υπεύθυνος επικοινωνίας": "ΕΜΜΑΝΟΥΗΛ ΚΟΝΤΟΠΟΥΛΟΣ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2285025768",
+            "Email υπεύθυνου επικοινωνίας": "makontop@otenet.gr",
+            "Θέση υπεύθυνου επικοινωνίας": "ΜΕΛΕΤΗΤΗΣ"
+        },
+        "panel-project_info": {
+            "Κατάταξη Έργου / Δραστηριότητας - Κύρια": "Ομάδα 9η (οικ.92108/1045/2020): Μεταποιητικές και Συναφείς Δραστηριότητες / Παραγωγή έτοιµου σκυροδέµατος",
+            "text_0": "Ομάδα 9η (οικ.92108/1045/2020): Μεταποιητικές και Συναφείς Δραστηριότητες / Παραγωγή έτοιµου σκυροδέµατος",
+            "Κατάταξη Έργου / Δραστηριότητας - Δευτερεύουσα": "",
+            "Κατηγορία / Υποκατηγορία Έργου ή Δραστηριότητας": "A2",
+            "Α/Α (1-226)": ""
+        },
+        "panel-location": {
+            "coordinates": {
+                "type": "single",
+                "points": [
+                    {
+                        "type": "Αρχή",
+                        "EGSA87": {
+                            "x": "641665.4",
+                            "y": "4089248.57"
+                        },
+                        "WGS84": {
+                            "φ": "36.941226",
+                            "λ": "25.592566"
+                        }
+                    }
+                ],
+                "raw": "36.941226,25.592566"
+            },
+            "location_name": "«Παριανός» Δ.Κ. Κουφονησίων δήμου Νάξου & Μικρών Κυκλάδων",
+            "administrative_hierarchies": [
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΝΑΞΟΥ",
+                    "ΔΗΜΟΣ ΝΑΞΟΥ ΚΑΙ ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΚΟΥΦΟΝΗΣΙΩΝ"
+                ]
+            ]
+        },
+        "panel-files": {
+            "Έντυπο Υ": {
+                "text": "Y_ENTYPO_YPOVOLHS_STOIXEIWN (ΠΠΠΑ)_signed.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlQ1VFF0Ujh3bWg1amx2ckUvRk95YjM1WEc4R2hIbkQyK1JUV2FVYVJyWnA,"
+                ]
+            },
+            "Φάκελος ΠΠΠΑ": {
+                "items": [
+                    "ΠΡΟΚΑΤΑΡΚΤΙΚΗ ΠΕΡΙΒΑΛΛΟΝΤΙΚΗ ΠΡΑΣΙΝΟΥ 2019 Μ1 (1)_signed.pdf",
+                    "ΕΙΔΙΚΗ ΟΙΚΟΛΟΓΙΚΗ ΑΞΙΟΛΟΓΗΣΗ-1_signed.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlJhMThMcm1BdlBPVU8wT2RzMUNieHl5a1ZqU1gwVDd1VXNUeS9XUTN1M0U,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmJLcmYvS3FVSEpwWDlxTmk4SS9JbHVTcWxrd3Y3dFkzRWpDTXZvSDFUTXQ,"
+                ]
+            },
+            "Σχέδια": {
+                "items": [
+                    "T2 PRASINOS TOPO DIAGRAMMA-Model.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlZEZ3RSYzN2cEFqekIweVpNbEYrRkt1ZFdxNnBzSWowVzVaMU5LNms4cUY,"
+                ]
+            },
+            "Φωτογραφίες": {
+                "items": [
+                    "GOOGLE.jpg",
+                    "KTHMATOLOGIO.jpg"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlZSUWp5WXJ6Q3ZJRHlRUWdCcXBsQ1RJaWhXKzdnMnlGMk1xMEpDSXRUWko,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmF3OTdjVzBoU0x4bXNiQTlnUWswU2tER0FBRCtkQVVSVUg1bWhRZG1vckk,"
+                ]
+            },
+            "Έγγραφα, Εγκρίσεις, Άδειες κλπ": {
+                "items": [
+                    "ΠΡΑΣΙΝΟΣ ΒΕΒΑΙΩΣΗ ΧΡΗΣΕΩΝ ΓΗΣ 10.01.2020.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΤΟΠΟΓΡΑΦΙΚΟ ΕΥΡΥΤΕΡΗΣ ΠΕΡΙΟΧΗΣ ΓΥΣ Τ01 06-2019 .pdf",
+                    "ΠΡΑΣΙΝΟΣ ΣΥΜΒΟΛΑΙΟ 13.02.2009.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΑΝΑΚΟΙΝΩΣΗ ΔΙΑΧΕΙΡΗΣΗΣ ΕΚΤΑΣΕΩΝ ΩΣ ΔΗΜΟΣΙΕΣ 04.04.2011.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΠΕΡΙ ΠΡΑΞΕΩΣ ΧΑΡΑΚΤΗΡΙΣΜΟΥ 04.04.2011.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΠΡΑΞΗ ΧΑΡΑΚΤΗΡΙΣΜΟΥ 04.04.2011.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΤΕΛΕΣΙΔΙΚΟΣ ΠΡΑΞΗ ΧΑΡΑΚΤΗΡΙΣΜΟΥ 19.08.2011.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΤΟΠΟΓΡΑΦΙΚΟ Τ01 03-2010.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΦΕΚ Δ 662.2002 ΑΙΓΙΑΛΟΣ.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΑΙΤΗΣΗ ΑΔΕΙΑΣ ΓΙΑ ΚΑΤΑΣΚΕΥΗ ΜΑΝΤΡΑΣ 25.02.2011.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΑΠΟΣΤΟΛΗ ΕΚΓΡΙΣΗΣ ΚΑΤΑΣΚΕΥΗΣ ΜΑΝΤΡΑΣ 24.02.2012.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΔΙΑΒΙΒΑΣΗ ΥΠΟΘΕΣΗΣ ΣΤΟ ΤΟΠΙΚΟ ΣΥΜΒΟΥΛΙΟ ΜΝΗΜΕΙΩΝ 25.02.2011.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΔΙΑΒΙΒΑΣΗ ΦΩΤΟΑΝΤΙΓΡΑΦΟΥ 23.03.2011.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΔΙΑΓΡΑΜΜΑ ΔΟΜΗΣΗΣ Δ01 06-2017.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΕΓΚΡΙΣΗ ΚΑΤΑΣΚΕΥΗΣ ΜΑΝΤΡΑΣ 24.02.2012.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΕΛΕΓΧΟΣ ΥΠΕΔΑΦΟΥΣ 08.06.2010.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΜΗ ΑΝΤΙΡΡΗΣΗ ΓΙΑ ΑΝΕΓΕΡΣΗ ΑΠΟΘΗΚΗΣ ΑΝΤΙ ΑΡΧΙΚΟΥ ΚΤΙΡΙΟΥ 22.06.2018.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΜΗ ΕΥΡΕΣΗ ΑΡΧΑΙΩΝ 08.09.2010.pdf",
+                    "ΓΝΩΜΟΔΟΤΗΣΗ ΓΙΑ ΠΕΧΩΠ.pdf",
+                    "ΔΙΑΒΙΒΑΣΤΙΚΟ ΠΕΧΩΠ.pdf",
+                    "ΔΙΑΒΙΒΑΣΤΙΚΟ ΠΕΧΩΠ.pdf",
+                    "ΠΡΑΚΤΙΚΟ ΠΕΧΩΠ.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΤΟΠΟΓΡΑΦΙΚΟ ΕΥΡΥΤΕΡΗΣ ΠΕΡΙΟΧΗΣ ΓΥΣ Τ01 03-2011.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΤΟΠΟΓΡΑΦΙΚΟ ΠΡΟΤΑΣΗ ΓΕΝΙΚΗΣ ΔΙΑΤΑΞΗΣ Τ02 01-2011 .pdf",
+                    "ΑΓΡΟΤΙΚΗ ΑΠΟΘΗΚΗ.pdf",
+                    "ΠΡΑΣΙΝΟΣ ΕΓΚΡΙΣΗ-ΑΔΕΙΑ ΔΟΜΗΣΗΣ 8-10.11.2017.pdf",
+                    "Β4ΤΜ7ΛΞ-Ω5Ο.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmMvRms0aFZ3UU11dUpjVEVmblpROTFBbk1MeEc1UTEra1N2TTV3STFLcTA,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmR4SWx1WXdSWnRDenJNS1JVQkRPUWk5c2NId0JHSFJTTkF0a2cwZnBndDk,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlY4QU1vNkY5OGFpaEl3MzBCWGNaeVF4MFRXdm5TWVppK3JObHNmdHdVNVA,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmZaM3hxbTl2T2RTcjlKSmllRlFTcVp4WSsvdy9GejkvWTVUWHNKMWxyb2o,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmJlWlM2QStXOGdwOXpqTjJiQ2dGWTE0ZUQ0TkhkbTF1anB3ekZ2UjZGUDg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlJySzNlb0tFT3BzM3BSdkVZNk94S044eFBQMldWdXV5c1NVSzJBUE53VzY,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlV6TkZneTUwNHptOGhTcDhTM2tZZzQ4bG5GZGk1Q3ZTVGtLalFFa1g1dk4,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlFPcWJKOTV2Y3pGbzV6Mm1renVXSVZjUnJyUVBUMkJBVElybm9jSFJyUXQ,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmJQSFA3RTJMWjFDeWdSRzNzZ1dqcm90WGpPYVNMZzZrOTQ3Si8ramNmK3o,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlYzTFVDWmJSRHdYdWVkRWFvdktrSVdwelJvQkhFTWROTjkwbTR1V1FXMVM,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlFvZXBMRC9mVlljbjR4RDNldzdjQUdncWE0Sk5HT0RXQWRvYkQySlJ6ZTc,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlpQUnJYVGRseituMVA1U1ViQ3JLVnNHNDhveHBBVTFDQ0swbmFOVG9vZlE,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQllQL0s0M2NiUHdTRlJ5emhTV2RzR0FTbDBUWnEvWnpNSCtKNTU0c1FwR1o,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlpOZHJ5YmZaSUxIWXNlcTZScFZ6ZmVteTZOVFJPaXMyTndWQm05blEwWE8,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmRVR2lRNlhpL1dpSXo4ZDFZd1BrWkVaVUJraE1rdHBqRTNCWWdYbmhkeTI,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlo5YzJ2ZTdPUmlXeGhCYVMybGRSZ051U1pkSWx3ZGdjOVgydU0wWnUrSTg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmJPOVc0ci90MklOMG9SL0xOb2kwNmZKTzlFdzJ6VS93K2ZDazFZVDZyeTI,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQllmenB1Y3ovcGh5eDBWL0tFVjA1aFNKR2NPK3NURm91OWxtcWVzb3FwY3g,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlZVN25qRnZhd2pNSzhIMU9qM1lidmN1c053akM2MnlUZURMU2laWE1lUWg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmZxWnBLMjNLR0UvdnRzc28vYmMyTXFreFpNeWc5aURQalVKQ1RJNU9SblE,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmN2bnNwUENHRUdLUTIxY1Bqbi9nYnBWQXhVbCtTTWpZeWdpMXdURjYvZ2s,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmZYeTFUZFcyNWpybUUwTHhKQjFWbC9xL2dYMitPOUZOcnVJa2VQU0VVUS8,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmVzakRhR3JWNitWQzFTbUg5ZGU2S0pqKzZiUytRWUFRM00wZnNkcDJqOGY,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlRFbElJVGEzdklzTHhDSXhXcUE5bnFGWDJzODFPOExrbzRObjlpRFlXbWs,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlE1Wm5MemRoTzFzQ1k3dXFORWtRWGZoOTFhQ1h2YVBwZnorWmhETk1YaGs,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmUrV0gzWGx5VDM3NU1ER1FJSklsdzNPK1RxRDZEZ1dIZ0pncGxraVhXMWk,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQllUWnRQNGFBT0tEYnJVbGUrSURBekNJOXB6bGZnQjJGQjlLRU9mWk1yNjk,"
+                ]
+            },
+            "Χάρτες – Χωροθέτηση": {
+                "items": [
+                    "Τ1 PARIANOS GYS 5000.pdf",
+                    "ΧΑΡΤΗΣ ΧΡΗΣΕΩΝ ΓΗΣ Μ.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQmZVMmFRV1BoZVNGeVJWQ2Rqd3hOVmVKZW5yamFrbDdXTmxWQk84OFRsQlQ,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ09lcW5KSDg3TTRxNzMvYVJjcGxVeU5mdDVBZk9Jcm9xbTJoNzZvdzhHQlFod2t6a0diYWJuc0s4T0JPUjMrQ2RuZGhmNDQzZ0JhY2F5WVV4R1h3emw,"
+                ]
+            }
+        },
+        "panel-copies": {
+            "Έγγραφο αιτήματος πρόσθετων αντιτύπων": {
+                "text": "ant prasinos.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPamkvbUNDSlEzWGZ4NU5vOUxzOFBsamJldm02ckpMd251dWhjQ3hiMmc4dk1DVitLZXZzeldOeUJCa3V6VjdqeDhnMGNGVzVOK2lKTkk0Q0JOaWFDMWI,"
+                ]
+            },
+            "Αριθμός Αντιτύπων": "7",
+            "Αριθμός πρωτοκόλλου αντιτύπων και ημερομηνία": "30559/20-07-20"
+        },
+        "panel-opinions": {
+            "Γνωμοδοτήσεις": {
+                "items": [
+                    {
+                        "Υπηρεσία": "Διεύθυνση Υδάτων Νοτίου Αιγαίου - Αποκεντρωμένη Διοίκηση Αιγαίου",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "ydaton prasinos.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "32204/29-7-20",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Συντονισμού και Επιθεώρησης Δασών Αιγαίου - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Αναρμόδια για γνωμοδότηση",
+                        "Γνωμοδότηση": "Γνωμοδότηση σκυρόδεμα_Κουφονήισα.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Αρχαιοτήτων Κυκλάδων",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "efak prasinos.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "507768/359102/12536/4338/12-10-20",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Υπηρεσία Νεωτέρων Μνημείων & Τεχνικών 'Έργων Αττικής, Ανατολικής Στερεάς Ελλάδας & Κυκλάδων - Γενικής Διεύθυνσης Αναστήλωσης, Μουσείων & Τεχνικών Έργων - ΥΠΠΟΑ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "ynm skyr prasinos.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "393722/6-1-21",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "ΓΕΕΘΑ -Διεύθυνση Γ2- Υπουργείο Εθνικής Άμυνας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "ΠΡΟΣ ΑΠΟΚ.ΔΙΟΙΚ. ΑΙΓΑΙΟΥ- ΕΝΤ.Δ9-ΜΟΝΑΔΑ ΣΚΥΡΟΔΕΜΑΤΟΣ ΠΑΡΙΑΝΟΣ,ΚΟΥΦΟΝΗΣΙΑ ,ΚΥΚΛΑΔΕΣ (831) ΑΥΓ.20.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Χωροταξικού Σχεδιασμού - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Αναμονή γνωμοδότησης",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Διαχείρισης Φυσικού Περιβάλλοντος & Βιοποικιλότητας - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Αδυναμία γνωμοδότησης λόγω ελλείψεων",
+                        "Γνωμοδότηση": "gn ypen prasinos.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "88770/2173/24-01-22",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "ΔΙΕΥΘΥΝΣΗ ΔΑΣΩΝ ΚΥΚΛΑΔΩΝ - ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΑΙΓΑΙΟΥ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "dason prasinos.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "37028/26-8-20",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Φορέας Διαχείρισης Προστατευόμενων Περιοχών Κυκλάδων",
+                        "Αξιολόγηση": "Αναμονή γνωμοδότησης",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    }
+                ],
+                "links": [
+                    "",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ0pCazhidXRvajN4VGc4RzZQdGV1Y0x0SnR5bi9wR1dBS0NvWEViQ1JjYWtTd1JibFNiQ1E0eWtPNkQydEw1ZHZIYTJZeFh5TDNib3JkZ1I3dVZ4Qy8,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ3JIb2FmZ0sxanA4U21JVUNtZjJCcVNHRzc4WlFFTTFERTN5TjJqV3JsZGlvWFBsczlYQTJWenNONnhEVzg0dms5TjUxa0ZCUjVYWEpJVDViZ24waVg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaHExL0g5eXJRZS9waXRHTHNFT1l6eGV6TVpTcjJPOVBSUWthZnUzdkFYVmk5Z05tMkMySmowbjRoL3lSaWNqS1hrMGcwOFo4MlZGamx1TS8wVVgyRkg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaTZnWmVCNUt4VEREUE9mVHhPZnBuWWNUamhUdll5WUdIUXVVODNURHp5aXRQR01IaDE4U3Y0dWxlUjN4NFR5ZjcyUmlBRGdXOHVJZkdwdGRrRm42Sys,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakY0NkRMRjVNNW10VnJQVVIvTWVMTG9tR01wdCtPQWF4cVRWTkdWOHZoTEM3Qm85RE5MSTI1MTNzYnlaU0oyR1UzS2loZEEwVzlrSTc2NWVndmh0Yk0,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaEh6b0V4bXF5RCs3MktocTJBMDFPeTV3YnVzODRLbXJ1NkJLZ1l6YStLNnFlaGVjZEpFKzRrZGp6MmhkM2NwWktadG9SaFYvQnRLS0FvckJmRXJJNXc,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaTZnWmVCNUt4VEREUE9mVHhPZnBuWWNUamhUdll5WUdIUXVVODNURHp5aW9xS0ZsMzI2Nk5jaEFEOUo1dDNVZVcwL3h0ZGpqdUNNR0V6aHhCeWNTaGk,"
+                ]
+            },
+            "Έντυπο Δ2": {
+                "text": "D2.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ0pCazhidXRvajN4VGc4RzZQdGV1Y0x0SnR5bi9wR1dBS0NvWEViQ1JjYWd0OGxHcG1vNmI3V3VFajdNUkpMMFQxUk1UNVFqN3RQVFpuRjNoWlVnTWs,"
+                ]
+            }
+        },
+        "panel-evaluation": {
+            "Αξιολόγηση απόφασης ΠΠΠΑ": "Θετική",
+            "Αρχείο ΠΠΠΑ": {
+                "text": "ΨΔΜ8ΟΡ1Ι-ΨΝΝ.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaDEzeUkybTdkMHArdmtkSVMzVzdGVWtpMElmRmpUNHlFTWhuUmNBMW12bUY0Vk5pZHY4MXpmUW9oUW1mTUUwTy9QYW5EeVpGRXR2WSs1ZCswQmc3bTI,"
+                ]
+            }
+        }
+    },
+    "1911216529_w6_6": {
+        "panel-application_info": {
+            "Τίτλος Έργου ή Δραστηριότητας": "ΜΕΛΕΤΕΣ ΟΔΟΠΟΙΊΑΣ ΟΔΙΚΟΥ ΔΙΚΤΥΟΥ Ν. ΚΟΖΑΝΗΣ (ΟΔΙΚΟ ΕΡΓΟ ΑΝΑΤΟΛΙΚΟ-ΠΥΡΓΟΙ)",
+            "Σύντομος Τίτλος Έργου ή Δραστηριότητας": "ΠΠΠΑ Μελετών Οδοποιίας Οδικού Δικτύου Ν. Κοζάνης - Οδικό Τμήμα Ανατολικό_Πύργοι Δήμου Εορδαίας",
+            "Αριθμός πρωτοκόλλου υποβολής": "3557",
+            "Κατάσταση αίτησης": [
+                "Υποβολή",
+                "Έλεγχος πληρότητας",
+                "Γνωμοδοτήσεις",
+                "Τελική αξιολόγηση",
+                "Ολοκλήρωση"
+            ],
+            "Ημερομηνία υποβολής": "2019-11-21 12:25:36",
+            "ΠΕΤ": "1911216529",
+            "Φορέας Έργου ή Δραστηριότητας": "ΔΙΕΥΘΥΝΣΗ ΤΕΧΝΙΚΩΝ ΥΠΗΡΕΣΙΩΝ ΠΕΡΙΦΕΡΕΙΑΚΗΣ ΕΝΟΤΗΤΑΣ ΚΟΖΑΝΗΣ",
+            "Ανάθεση σε": "Λευκοθέα  Δόση"
+        },
+        "panel-application_authority": {
+            "Διεύθυνση": "Δ/νση Περιβάλλοντος & Χωρικού Σχεδιασμού Δυτικής Μακεδονίας",
+            "Τμήμα": "Τμήμα Περιβαλλοντικού & Χωρικού Σχεδιασμού Δυτικής Μακεδονίας"
+        },
+        "panel-company_info": {
+            "Επωνυμία": "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ Π.Ε. ΚΟΖΑΝΗΣ, ΓΕΝΙΚΗ Δ/ΝΣΗ ΑΝΑΠΤΥΞΙΑΚΟΥ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ & ΥΠΟΔΟΜΩΝ, Δ/ΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ Π.Ε. ΚΟΖΑΝΗΣ",
+            "ΑΦΜ": "997769589",
+            "ΔΟΥ": "ΚΟΖΑΝΗΣ",
+            "Διεύθυνση": "ΔΗΜΟΚΡΑΤΙΑΣ 27",
+            "Περιοχή": "ΚΟΖΑΝΗ",
+            "Fax": "2461047213",
+            "Email": "d.te@kozani.pdm.gov.gr",
+            "Υπεύθυνος επικοινωνίας": "ΛΥΓΚΩΝΗ ΧΡΥΣΟΥΛΑ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2461351215",
+            "Email υπεύθυνου επικοινωνίας": "ch.ligkoni@kozani.pdm.gov.gr",
+            "Θέση υπεύθυνου επικοινωνίας": ""
+        },
+        "panel-studier_info": {
+            "Επωνυμία": "ΓΕΩΑΝΑΛΥΣΗ Α.Ε",
+            "Διεύθυνση": "Γ. ΓΕΝΝΗΜΑΤΑ 54,55134, ΘΕΣΣΑΛΟΝΙΚΗ",
+            "Περιοχή": "ΦΟΙΝΙΚΑΣ",
+            "Fax": "2310496880",
+            "Email": "info@geoanalysis.gr",
+            "Υπεύθυνος επικοινωνίας": "ΣΑΒΒΙΔΗΣ ΚΥΡΙΑΚΟΣ",
+            "Τηλ. υπεύθυνου επικοινωνίας": "2310496800",
+            "Email υπεύθυνου επικοινωνίας": "info@geoanalysis.gr",
+            "Θέση υπεύθυνου επικοινωνίας": ""
+        },
+        "panel-project_info": {
+            "Κατάταξη Έργου / Δραστηριότητας - Κύρια": "Ομάδα 1η: Έργα χερσαίων και εναέριων μεταφορών / Οδός µεταξύ επαρχιών/οικισµών",
+            "text_0": "Ομάδα 1η: Έργα χερσαίων και εναέριων μεταφορών / Οδός µεταξύ επαρχιών/οικισµών",
+            "Κατάταξη Έργου / Δραστηριότητας - Δευτερεύουσα": "",
+            "Κατηγορία / Υποκατηγορία Έργου ή Δραστηριότητας": "A2",
+            "Α/Α (1-226)": ""
+        },
+        "panel-location": {
+            "coordinates": {
+                "type": "linear",
+                "points": [
+                    {
+                        "type": "Αρχή",
+                        "EGSA87": {
+                            "x": "309710.01",
+                            "y": "0"
+                        },
+                        "WGS84": {
+                            "φ": "0.0022304",
+                            "λ": "22.2914701"
+                        }
+                    },
+                    {
+                        "type": "Μέση",
+                        "EGSA87": {
+                            "x": "313674.01",
+                            "y": "0"
+                        },
+                        "WGS84": {
+                            "φ": "0.0022304",
+                            "λ": "22.3270788"
+                        }
+                    },
+                    {
+                        "type": "Τέλος",
+                        "EGSA87": {
+                            "x": "317397",
+                            "y": "0"
+                        },
+                        "WGS84": {
+                            "φ": "0.0022304",
+                            "λ": "22.3605231"
+                        }
+                    }
+                ],
+                "raw": "0.0022304,22.2914701-0.0022304,22.3270788-0.0022304,22.3605231"
+            },
+            "location_name": "ΑΝΑΤΟΛΙΚΟ-ΜΕΣΟΒΟΥΝΟ-ΠΥΡΓΟΙ",
+            "administrative_hierarchies": [
+                [
+                    "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+                    "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΟΖΑΝΗΣ",
+                    "ΔΗΜΟΣ ΕΟΡΔΑΙΑΣ",
+                    "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΒΕΡΜΙΟΥ"
+                ]
+            ]
+        },
+        "panel-files": {
+            "Έντυπο Υ": {
+                "text": "Y_ENTYPO_YPOVOLHS_STOIXEIWN.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaUtnL1cvMzFjeHQyaGpiekE3VnFTbEtXNGtYZ1FuZDJZYzVBODNUbktLakhYRmhuVmpjNU5jRmpqNFRsQjNuVXZWOHBTaG9nN095RWU4V2tCZU9TZ0Y,"
+                ]
+            },
+            "Φάκελος ΠΠΠΑ": {
+                "items": [
+                    "S_ΠΠΕ_ΑΝΑΤΟΛΙΚΟ_ΠΥΡΓΟΙ-.pdf"
+                ],
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaUtnL1cvMzFjeHQyaGpiekE3VnFTbEtXNGtYZ1FuZDJZYzVBODNUbktLakwrTHExam1OcUxKWmZ3emtIcGVwS25sMm5nbDlpMm1hcEFLejdNdE5IcDg,"
+                ]
+            },
+            "Σχέδια": [],
+            "Φωτογραφίες": [],
+            "Έγγραφα, Εγκρίσεις, Άδειες κλπ": [],
+            "Χάρτες – Χωροθέτηση": []
+        },
+        "panel-opinions": {
+            "Γνωμοδοτήσεις": {
+                "items": [
+                    {
+                        "Υπηρεσία": "Διεύθυνση Αγροτικής Οικονομίας Δυτικής Μακεδονίας - Περιφέρεια Δυτικής Μακεδονίας",
+                        "Αξιολόγηση": "Αναμονή γνωμοδότησης",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Διεύθυνση Συντονισμού και Επιθεώρησης Δασών Ηπείρου, Δυτικής Μακεδονίας - Υπουργείο Περιβάλλοντος & Ενέργειας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "Μελέτες οδοποιίας Ανατολικό - Πύργοι στο Δήμο Εορδαίας ΠΕΤ 1911216529.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Αρχαιοτήτων Κοζάνης",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "1.448 12 02 2020.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Εφορεία Παλαιοανθρωπολογίας-Σπηλαιολογίας Βόρειας Ελλάδος - Γενική Διεύθυνση Αρχαιοτήτων και Πολιτιστικής Κληρονομιάς - ΥΠΠΟ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "Δ8_ Οδικό τμήμα Ανατολικοί Πύργοι Εορδαίας AA.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Υπηρεσία Νεωτέρων Μνημείων και Τεχνικών Έργων Ηπείρου, Βορείου Ιονίου & Δυτικής Μακεδονίας - ΥΠΠΟΑ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "ΓΕΕΘΑ -Διεύθυνση Γ2- Υπουργείο Εθνικής Άμυνας",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά",
+                        "Γνωμοδότηση": "ΠΡΟΣ ΑΠΟΚ.ΔΙΟΙΚ.ΗΠΕΙΡΟΥ-ΔΥΤ.ΜΑΚΕΔΟΝΙΑΣ- ΕΝΤ.Δ9-ΟΔΙΚΟ ΔΙΚΤΥΟ ΑΝΑΤΟΛΙΚΟΙ ΠΥΡΓΟΙ,ΕΟΡΔΑΙΑ,ΚΟΖΑΝΗ (261) ΜΑΡ.20.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "ΔΑΣΑΡΧΕΙΟ ΚΟΖΑΝΗΣ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "ΟΔΟΠΟΙΙΑ ΑΝΑΤΟΛΙΚΟ ΠΥΡΓΟΙ ΕΟΡΔΑΙΑ.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "ΔΙΕΥΘΥΝΣΗ ΔΑΣΩΝ ΚΟΖΑΝΗΣ - ΑΠΟΚΕΝΤΡΩΜΕΝΗ ΔΙΟΙΚΗΣΗ ΗΠΕΙΡΟΥ-ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "γνωμ.φακέλου οδοποιίας Ανατολικό - Πύργοι Δ. Εορδαίας.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "",
+                        "Συμπληρωματικά στοιχεία": ""
+                    },
+                    {
+                        "Υπηρεσία": "Υπηρεσία Νεωτέρων Μνημείων και Τεχνικών Έργων Ηπείρου, Βορείου Ιονίου & Δυτικής Μακεδονίας - ΥΠΠΟΑ",
+                        "Αξιολόγηση": "Γνωμοδοτούμε θετικά με όρους – προϋποθέσεις",
+                        "Γνωμοδότηση": "ΟΡΘΗ ΕΠΑΝΑΛ_2020_AP602_Δ8_ΟΔΟΠΟΙΙΑ ΑΝΑΤΟΛΙΚΟ ΠΥΡΓΟΙ ΕΟΡΔΑΙΑ.pdf",
+                        "Αρ. Πρωτ. εγγράφου και ημερομηνία": "19975/17.02.2020",
+                        "Συμπληρωματικά στοιχεία": ""
+                    }
+                ],
+                "links": [
+                    "",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZ0FQREdNcnB2ZTcrRFFGOEk2WGhmWlMwMmlVeUdzMXJXejBNRHArK1JVUGlsZHJFUXo1eGdHWFdxWFVvT2M2dWlKMVVvZW9iczh0eG1Caks3Vk56MG8,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaFl1azVIODFrMTVjQlR0K0M1SUJVNW1GMGE0ZHRuQ2pOU0x6c29qbE9yY3d1QnFMM2hFbWQ5cGtZZ0Q0SzQxZXFPeWdORCsrbGdhakE0UW5EMS9rMmg,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzlsOUFMRWtNZGRuNGo1MjZuRGxkWm8rTHZERzN2SW1RcXNuTXNNYzRtNDRKNnNPV1IwVjNteDhvYXJ2dEVnMHVHK09qS0xCRFJVdHd0RkJNdFFGdi8,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPZzhrSXVJeXhXUDN0Ull4MXJJT3hFSVB1MHZsejg4YlFpV0xkTkxVYzlUSmZJZk5JZnllZC8zaHdZbVQ2MjhFYjUrN1hqaFZqNEZkWFpRK2FXWUxnK00,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPamFrckt6R0RRTWlIbkgwNUxadkY2MHk1RXNoUEd4WktscG5pdkc4a2NlMnBTUkYvbVZTcW1qelV3aEp3czRKdk1Ma2RXZnUzRFJ6UWhRVUVIMlQxaEM,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPakxpazQvZlN1ZGM0MmhrNXl4SEVsT0IvTGtyeld0aE4ydnZjbXZhWHp0S2gxV2Jja2IzVWxET2hwSE9ablhrRmJaaitWYmY4Skw1d0l4N3NVd2gzUHc,",
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaFdBM2UxUzFlMmprRWtiaW5HK25ZbnAxUUZma3d0eUcvQnZvbDYya3VMOXRqbURXakxhWmkxaHFRWEVTVXBlc0RlTUFwdkI1cXB0c2t2SGxUNzR0WW0,"
+                ]
+            },
+            "Έντυπο Δ2": {
+                "text": "D2_ENTYPO_EPOPTEIAS_GNWMODOTHSEWN_PPPA_signed.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaEdVUHVRY05ySjJZOUJMNE9LNU11TGN0SDAyUVNHVWxCZzJRQndkQ1hFeHZ5YXRpcHNDWUtRTkttSDBxa2VwOHRoR2lKenMzU2dmWlprQ0xpNGs4dUE,"
+                ]
+            }
+        },
+        "panel-evaluation": {
+            "Αξιολόγηση απόφασης ΠΠΠΑ": "Θετική",
+            "Αρχείο ΠΠΠΑ": {
+                "text": "PPPA ODIKO TMIMA ANATOLIKO PIRGOI EORDAIAS.pdf",
+                "links": [
+                    "file/view/bTVVOTdSTy9qSlkrdTVSQ1U1a2hRbzk5cXN0TFBRMnJTb3RkOXgycjNPaTFWTlBrMk9taFJlc3pGMWVHTUxac3k4SXVBYkdGemdCR2sxUXFkaHhDRmUvWlRvRTJLNkgwYytyWmhlTExKYVdHajQzRjRHZktoNFkydjRDaU1DY3M,"
+                ]
+            }
+        }
+    }
+}
