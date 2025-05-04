@@ -24,6 +24,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 FILES_DIR = os.path.join(SCRIPT_DIR, 'Files')
 INPUT_DIR = os.path.join(SCRIPT_DIR, 'Scraped')
 BASE_URL = "https://eprm.ypen.gr/src/App/"
+GLOBAL_PROGRESS_FILE = os.path.join(SCRIPT_DIR, "global_progress.json")
 
 # Make sure the FILES_DIR exists
 os.makedirs(FILES_DIR, exist_ok=True)
@@ -84,6 +85,47 @@ def wait_for_download_complete(download_dir, expected_name=None, timeout=30, pol
     # If we've gone through the full timeout without finding new files
     return False
 
+def load_global_progress():
+    """Load the global progress data from the JSON file"""
+    if os.path.exists(GLOBAL_PROGRESS_FILE):
+        try:
+            with open(GLOBAL_PROGRESS_FILE, "r", encoding="utf-8") as f:
+                return set(json.load(f))
+        except:
+            print("Warning: Failed to load global progress file. Starting fresh.")
+    return set()
+
+def update_global_progress(completed_files, progress_lock):
+    """Update the global progress file with newly completed files"""
+    with progress_lock:
+        # Load current progress
+        current_progress = load_global_progress()
+        
+        # Add new completed files
+        updated_progress = current_progress.union(completed_files)
+        
+        # Save back to file
+        with open(GLOBAL_PROGRESS_FILE, "w", encoding="utf-8") as f:
+            json.dump(list(updated_progress), f)
+
+def check_file_exists(category, filename):
+    """Check if a file already exists in the category directory"""
+    category_dir = os.path.join(FILES_DIR, category)
+    if not os.path.exists(category_dir):
+        return False
+    
+    # Try exact match first
+    if os.path.exists(os.path.join(category_dir, filename)):
+        return True
+    
+    # Try case-insensitive match (helpful for some systems)
+    filename_lower = filename.lower()
+    for existing_file in os.listdir(category_dir):
+        if existing_file.lower() == filename_lower:
+            return True
+    
+    return False
+
 def download_pdf_chunk(chunk_id, links_chunk, progress_lock):
     """Download a chunk of PDFs with a dedicated driver"""
     # Configure a new driver instance for this process
@@ -106,17 +148,16 @@ def download_pdf_chunk(chunk_id, links_chunk, progress_lock):
         }
         driver.execute("send_command", params)
     
-    # Track progress for resuming
-    completed_files = set()
-    progress_file = os.path.join(SCRIPT_DIR, f"progress_{chunk_id}.tmp")
-    if os.path.exists(progress_file):
-        with open(progress_file, "r", encoding="utf-8") as f:
-            completed_files = set(f.read().splitlines())
-        print(f"Worker {chunk_id} found {len(completed_files)} already completed downloads")
+    # Track progress for resuming - using the global progress file
+    with progress_lock:
+        completed_files = load_global_progress()
+    
+    print(f"Worker {chunk_id} found {len(completed_files)} already completed downloads")
                 
     success_count = 0
     error_count = 0
     error_log = []
+    newly_completed = set()
 
     for category, links in links_chunk.items():
         category_dir = os.path.join(FILES_DIR, category)
@@ -125,8 +166,23 @@ def download_pdf_chunk(chunk_id, links_chunk, progress_lock):
 
         for url in links:
             file_id = f"{category}/{url}"
+            
+            # Check if this file is in the global progress
             if file_id in completed_files:
                 continue
+
+            # Extract expected filename from URL
+            expected_name = unquote(url.split('/')[-1].split('?')[0])
+            
+            # Double check if file already physically exists
+            with progress_lock:
+                if check_file_exists(category, expected_name):
+                    # File exists but wasn't in our progress file
+                    completed_files.add(file_id)
+                    newly_completed.add(file_id)
+                    success_count += 1
+                    print(f"Worker {chunk_id} - File already exists: {category}/{expected_name}")
+                    continue
 
             while True:  # Retry loop for internet recovery
                 try:
@@ -142,8 +198,6 @@ def download_pdf_chunk(chunk_id, links_chunk, progress_lock):
                     # Start the download
                     full_url = BASE_URL + url
                     driver.get(full_url)
-
-                    expected_name = unquote(url.split('/')[-1].split('?')[0])
                     
                     # Wait for new files to appear (ignoring temporary files)
                     if wait_for_download_complete(category_dir, expected_name):
@@ -156,9 +210,16 @@ def download_pdf_chunk(chunk_id, links_chunk, progress_lock):
                             # Use the first new file detected
                             downloaded_file = list(new_files)[0]
                             success_count += 1
+                            
+                            # Add to local tracking sets
                             completed_files.add(file_id)
-                            with open(progress_file, "a", encoding="utf-8") as f:
-                                f.write(f"{file_id}\n")
+                            newly_completed.add(file_id)
+                            
+                            # Update global progress periodically (every 5 downloads)
+                            if len(newly_completed) >= 5:
+                                update_global_progress(newly_completed, progress_lock)
+                                newly_completed = set()
+                                
                             print(f"Worker {chunk_id} - Downloaded: {category}/{downloaded_file}")
                             break  # Exit retry loop on success
                         else:
@@ -190,6 +251,10 @@ def download_pdf_chunk(chunk_id, links_chunk, progress_lock):
 
                 # Add some random delay between downloads to avoid overwhelming the server
                 # time.sleep(random.uniform(0.5, 2.0))
+
+    # Update global progress with any remaining newly completed files
+    if newly_completed:
+        update_global_progress(newly_completed, progress_lock)
 
     # Write any errors to a log file
     if error_log:
@@ -233,7 +298,7 @@ def split_links_for_parallel(all_links, num_workers):
     
     return chunked_dicts
 
-def main(num_workers=10):
+def main(num_workers=1):
     print(f"Script directory: {SCRIPT_DIR}")
     print(f"Files directory: {FILES_DIR}")
     print(f"Starting download with {num_workers} parallel workers")
@@ -244,18 +309,38 @@ def main(num_workers=10):
     
     print(f"Found {total_links} files to download across {len(all_links)} categories.")
     
+    # Check existing files and update global progress
+    initial_progress = load_global_progress()
+    print(f"Found {len(initial_progress)} entries in global progress file")
+    
     if total_links > 1000:
         confirm = input(f"WARNING: You're about to download {total_links} files. Continue? (y/n): ")
         if confirm.lower() != 'y':
             print("Download cancelled.")
             return
     
+    # Filter out links that are already in the global progress
+    filtered_links = {}
+    for category, urls in all_links.items():
+        filtered_links[category] = []
+        for url in urls:
+            file_id = f"{category}/{url}"
+            if file_id not in initial_progress:
+                filtered_links[category].append(url)
+    
+    remaining_links = sum(len(links) for links in filtered_links.values())
+    print(f"After filtering already downloaded files: {remaining_links} files remaining to download")
+    
+    if remaining_links == 0:
+        print("All files have already been downloaded. Nothing to do!")
+        return
+    
     # Split links into chunks for parallel processing
-    link_chunks = split_links_for_parallel(all_links, num_workers)
+    link_chunks = split_links_for_parallel(filtered_links, num_workers)
     
     # Create a manager for sharing the lock between processes
     with multiprocessing.Manager() as manager:
-        # Create a lock for directory operations
+        # Create a lock for directory operations and progress file updates
         progress_lock = manager.Lock()
         
         # Create and start worker processes
@@ -268,7 +353,7 @@ def main(num_workers=10):
     total_errors = sum(r[1] for r in results)
     
     print(f"\nAll workers completed!")
-    print(f"Total success: {total_success}/{total_links} ({(total_success/total_links)*100:.1f}%)")
+    print(f"Total success: {total_success}/{remaining_links} ({(total_success/remaining_links)*100:.1f}%)")
     print(f"Total errors: {total_errors}")
     
     # Combine error logs
@@ -286,7 +371,7 @@ def main(num_workers=10):
 
 if __name__ == "__main__":
     # Allow setting number of workers from command line
-    num_workers = 10  # Default
+    num_workers = 10 # Default
     if len(sys.argv) > 1:
         try:
             num_workers = int(sys.argv[1])

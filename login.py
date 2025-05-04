@@ -117,5 +117,5 @@ def login(only_login=False):
 
 if __name__ == '__main__':
     os.makedirs('Scraped', exist_ok=True)
-    login()
+    login(True)
     
